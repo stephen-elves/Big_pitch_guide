@@ -1,0 +1,2115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Copy of Monster Moovers - RV friendly sites in France</name>
+    <description><![CDATA[www.monstermoovers.com<br>Campsites in France with larger pitches for American RVs and 5th wheels. Please let us know any incorrect information or new sites, so we can add them to this guide.<br><br>A copy in case the original goes.]]></description>
+    <Style id="icon-18-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/18-arts.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-18-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/18-arts.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-18">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-18-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-18-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-18-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/18-arts.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-18-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/18-arts.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-18-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-18-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-18-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-22-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-22-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-22-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Use the map or search box to find RV friendly sites in France</name>
+      <Placemark>
+        <name>Camping Les Peupliers</name>
+        <description><![CDATA[Access<br><br>Good road via Montady, avoid going through Colombiers, if you have a large vehicle as it’s very tight.  Entrance to campsite is okay and they will open a bigger, second gate if you feel you need it. Lovely tree lined access road through campsite, a little awkward for high vans, but okay if you take it easy.<br><br>Services<br><br>Electricity to all pitches included in rate. All fresh water and waste has to be piped in and out or toted. Potable water in separate taps. Good toilet and shower block, some heated for winter months. Bar, Cafe and swimming pool on site.<br><br>Overview<br><br>Helpful and friendly, some English spoken. Several full timers on site. 5 minutes walk to Canal du Midi and old town of Colombiers. Although the site is located close to a railway line and siding, it didn’t spoil our stay and we will definitely go back because of the location for Béziers and the Canal. Good bus service into Béziers from Colombiers.  A short walk into Colombiers for fresh bread each morning or Isabelle will order it in for you to collect on site.  Supermarket with essentials in Colombiers – bigger supermarket about 10 minutes away on the bus route into Béziers.  Cycling around this area is a pleasure – the little towns in the area all seem to have a market going on any given day.http://www.les-peupliers.com/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.143184,43.318247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Les Cigales</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7f7PyRGvTNeiWnwu7BfUrWbnmS8k2kVrns13RK8yLWcPEl86sTmJAU7u7UxAfHbfYcsjvXbjr0yR_xOW6uPs-wKbJoOXlUk_epxPFUOncx9eolnocmP2FXJ4ZzeoE_XQoWed4zMaMl1IO5qFcRBg" height="200" width="auto" /><br><br>505 Avenue de la Mer<br>06120 Mandelieu-la-Napoule, France<br><br>+33 4 93 49 23 53<br>lescigales.com (http://www.lescigales.com/content/gb/home/1)‎<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4Qa-wlmQIUwHvp2w6EPD_LpveVmcOUYbT_r3G-P4RAuPaA8CgeBLyUN67njzvyS84RzC6qCzdsFQE5YPWWVSl7R5W7zs9pmJJIfAJDYA6Et0lFmoK3E9t780qaG264bfHJNkbOeb2pF2_jk5mU9mIqZ6DEY0058gM_EcWCoVUnYaJe_xzy8uz28FoGjDAZbZ3MIYsOihB6msLWhOlr1p81zxngQ-1rzpcKaZWvXtjveX842tNL-NkpK8yfkewYkIlet0RrxPpGrA" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7f7PyRGvTNeiWnwu7BfUrWbnmS8k2kVrns13RK8yLWcPEl86sTmJAU7u7UxAfHbfYcsjvXbjr0yR_xOW6uPs-wKbJoOXlUk_epxPFUOncx9eolnocmP2FXJ4ZzeoE_XQoWed4zMaMl1IO5qFcRBg https://lh3.googleusercontent.com/umsh/AK26PW4Qa-wlmQIUwHvp2w6EPD_LpveVmcOUYbT_r3G-P4RAuPaA8CgeBLyUN67njzvyS84RzC6qCzdsFQE5YPWWVSl7R5W7zs9pmJJIfAJDYA6Et0lFmoK3E9t780qaG264bfHJNkbOeb2pF2_jk5mU9mIqZ6DEY0058gM_EcWCoVUnYaJe_xzy8uz28FoGjDAZbZ3MIYsOihB6msLWhOlr1p81zxngQ-1rzpcKaZWvXtjveX842tNL-NkpK8yfkewYkIlet0RrxPpGrA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.94256,43.538913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Municipal de Mâcon</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW78HSOCkdHeqVcshf3huGRLUH764NFAqR7xUFUOaYjlFDh9RtOtQRIfaWV9pAdPz4Zh_38-A0SLc8OurBb3Sng2kXRUWWozUwX2Qb0taf1Uc5PB5hYKdymLPLJDC038Gea5lmyrIEFRI6HDHp3ZD_ON1zfXuOTQp6PqGgWDhieWLOhvmuDPnu8" height="200" width="auto" /><br><br>it has 225 spaces – some right by the river with a warning about flooding (!), and it appeared that most people were using it as a stopover…vans and motorhomes of all shapes and sizes, plus tents big and small…we had a few funny looks as we did our circuit looking for a space but access was dead easy – pitches were clearly marked and we could choose anywhere – reception gave us number 91, we figured that was how many pitches were taken and judging by the number of people that came in after us, there can’t have been many of the 225 left…<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4KAFXienfIsy-7YIPUf2NatZgScfXUte_IruGgm-LvC9GqYcCE3FtltI5ousLl_FbRlt8zLORQwzUsLY5gXaJ1rK67nEzrnQ30hKjk3M55LJHrV5TnUdNMOX6NZ5n1ym1E0kBeJP5_o5vnruSo_ynUSPXb3-1OsrMsQYIiXMKLK1hJEIgYOnTM93ss852KpJED41QnV1uplQ70Zrl6UyUC2WszUtYir22BSzC0XG2xyvLMSQmKdaOd-kkPUQFWwvTCLpPE5wzi3txH2smRU8K_qzL4IdqAvw" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW78HSOCkdHeqVcshf3huGRLUH764NFAqR7xUFUOaYjlFDh9RtOtQRIfaWV9pAdPz4Zh_38-A0SLc8OurBb3Sng2kXRUWWozUwX2Qb0taf1Uc5PB5hYKdymLPLJDC038Gea5lmyrIEFRI6HDHp3ZD_ON1zfXuOTQp6PqGgWDhieWLOhvmuDPnu8 https://lh3.googleusercontent.com/umsh/AK26PW4KAFXienfIsy-7YIPUf2NatZgScfXUte_IruGgm-LvC9GqYcCE3FtltI5ousLl_FbRlt8zLORQwzUsLY5gXaJ1rK67nEzrnQ30hKjk3M55LJHrV5TnUdNMOX6NZ5n1ym1E0kBeJP5_o5vnruSo_ynUSPXb3-1OsrMsQYIiXMKLK1hJEIgYOnTM93ss852KpJED41QnV1uplQ70Zrl6UyUC2WszUtYir22BSzC0XG2xyvLMSQmKdaOd-kkPUQFWwvTCLpPE5wzi3txH2smRU8K_qzL4IdqAvw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.843525,46.330952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Disneyland Paris</name>
+        <styleUrl>#icon-18-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.779249,48.870895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parc Asterix</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW49jGIVUn2rOJwNYdoXLyEcZkqdgILrNhK8EYP3YhAC_MNVOfebddRCkLN-DyTA_pWp5qBYSktS4UCxOQqOu1NJj7DFbBjSIsKv_fY3j5hb3gQhPp_esL25oGQlPaU4h9IBk4pFJb38eWmd6WX_QRNy0thcQrqe-6GzB6iM2PhfhuUO6QFJ5Vg" height="200" width="auto" /><br><br><br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4e-DRP3ufIxNWoOi-kMA6nxYjb9QMRC6zxlAWpt_ivzrS4p2MB4WM6CGrsFipt-xe_Cg0rEKquQFlFfOB8Qn-aB8WqJHJ-xfA726pZ6SySqp2q6rbDwfg4KMEXwHlqUeXw0-p0zs4F7g9GJ1E2RAJmCkr3JN9LJx4GpoUquDmzfb4tlV2OwKl4DXZBjYqlBQZYGmxXv5aXoZXs9cVfEnptChph1M66bZFaECUasoDo9N74S0qjRXG3GWI8Aq3vqQdPkPU7YA6GCRjJ-8-EDz4vdJLUcRrB4A" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-18</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW49jGIVUn2rOJwNYdoXLyEcZkqdgILrNhK8EYP3YhAC_MNVOfebddRCkLN-DyTA_pWp5qBYSktS4UCxOQqOu1NJj7DFbBjSIsKv_fY3j5hb3gQhPp_esL25oGQlPaU4h9IBk4pFJb38eWmd6WX_QRNy0thcQrqe-6GzB6iM2PhfhuUO6QFJ5Vg https://lh3.googleusercontent.com/umsh/AK26PW4e-DRP3ufIxNWoOi-kMA6nxYjb9QMRC6zxlAWpt_ivzrS4p2MB4WM6CGrsFipt-xe_Cg0rEKquQFlFfOB8Qn-aB8WqJHJ-xfA726pZ6SySqp2q6rbDwfg4KMEXwHlqUeXw0-p0zs4F7g9GJ1E2RAJmCkr3JN9LJx4GpoUquDmzfb4tlV2OwKl4DXZBjYqlBQZYGmxXv5aXoZXs9cVfEnptChph1M66bZFaECUasoDo9N74S0qjRXG3GWI8Aq3vqQdPkPU7YA6GCRjJ-8-EDz4vdJLUcRrB4A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            2.571181,49.133705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Croix du Vieux Pont</name>
+        <description><![CDATA[GPS 49.406677,3.133997<br><br>Large commercial site with all amenities.<br>http://www.la-croix-du-vieux-pont.com/uk/accueil.php]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.133636,49.404383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Fleur de Bretagne</name>
+        <description><![CDATA[http://www.fleurdebretagne.com/<br><br> Fleur de Bretagne, Kerandouaron, 22110, Rostrenen, Cotes d'Armor, France 	Language Selection 	 <br>	 <br>  	<br>Fleur de Bretagne - Bar 	  	Fleur de Bretagne - in bloom 	  	Fleur de Bretagne - surroundings 	  	Fleur de Bretagne - Swimming Pool 	  	Fleur de Bretagne - Fishing<br>	 <br>  	<br>Telephone (from France) 02 96 29 16 45 or 02 96 29 15 45 	| 	Telephone (UK National Rate) 0870 0171 661 or 0870 0171 660<br>  	Fleur de Bretagne is a family owned and run campsite in Central Brittany. We have two clean and well maintained toilet blocks, a swimming pool, fishing lake and are close to the town and Nantes-Brest canal.<br><br>There are 60 spacious pitches, 24 with electric hook-ups, spread over numerous terraced areas separated by grassy banks.<br><br>The outdoor swimming pool is well sized at 15m x 5m and is open from June until October. In our lakes we have bream, tench, roach, perch, golden rudd and at least one large pike!<br><br>We have a bar/restaurant on site where you can choose set menus and snacks as well as local beer, cider and not so local Guinness. We will be opening a site shop in June offering the basics and the town has three big supermarkets for those weekly shops!<br><br>Set in central Brittany the site is ideally located for exploring all the coasts, inland gorges and medieval towns. A 40 minute drive will find you at the sandy beaches of the South, the rocky coasts of the North or the breathtaking peninsulas of the West. Well behaved pets are welcomed.<br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112796)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -3.299675,48.230262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping le Versoyen</name>
+        <description><![CDATA[can take large r.vs on hard standing all the facilitys you could possibly want all year round site<br><br>45.622337, 6.784645<br><br>http://www.leversoyen.com/#!/contact/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            6.784725,45.622521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Disneyland Paris</name>
+        <description><![CDATA[Site Description: Parking up at Disney could not be easier. Just follow the signs in, first follow signs for hotels, then for coaches. Pay at the barrier and follow the "Camping Car" signs. Then park up with the hundreds of other motorhomes that will inevitably be there. You will be woken at around 3 am by the road sweepers but then again if you have been in the park all day you will probably be so tired you won't hear a thing A moving walkway, complete with music to get you in the mood, will take you from the motorhome parking right to the park gates which are about half a mile away. The Lat and Long given below are for the actual ticket barrier to the Motorhome Parking.<br><br>Address: Disneyland Paris Chessy France<br>Telephone: 08448 008 111 Email: Website:www.disneylandparis.com<br>Grid Reference:<br>Site Type: IND Independent Campsite<br>Open From: Open all year Closes: No<br>Children: Family Site<br>Dogs: No Dogs<br>Pitch Type:Hardstanding<br>Pitch Size:40ft Max<br>Levels:Level Pitches<br>Hook Up:None<br>Waste Disposal:Drive over Coach style<br>Toilets & Shower:Toilets Cleanliness:Terrible<br>Laundry:NK<br>Wi-Fi Internet:None<br>Ambience:car park<br>Swimmimg:<br>Nearest Bar: On Site Nearest Restaurant:On site<br>Nearest Beach: Nearest Shops:On site<br>Nearest Bus Stop:NK Nearest Railway Station: On site-40 min to Paris<br>the motorhome parking is 48.8773 2.7871. The 3 drive over dumps along with 2 water taps are in the entrance to the Coach parking area, 48.8769 2.7851<br><br>new water taps along the fence between the MH parking and the coach park<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112579)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.779249,48.870895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quiberon Municipal</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7Tbxhzy3amERGWcKh9DTSmI8RQFkSn-Y9y8T9oW7eqec2HkHQV5aykzgs5mr6L2GF3y2N99vr2KVcGqnmrbiAoN8zQfhSex6yrR6KWUMMi1e3YULwg88LQnt4GuUrjyqtPUuuyytmysEuPvV1xotabkLMJUoX4muhnnWQBs84PIdpMYbw4dBNt" height="200" width="auto" /><br><br>Description<br>A large flat grassy site with good access. Sea views, quiet and peaceful.<br>About €14<br><br><br>Facilities<br>EHU 16amp<br>Water on each pitch<br>Dump Point<br>Toilets<br>Shower hot free water<br><br><br>Activities<br><br>Fishing<br>Boating<br>Walking<br>Cycling<br><br>Location<br>Village De Kerne<br>56170 Quiberon<br>02.97.50.05.07<br><br>Michelin Routier France 2008<br>Atlas Page 123 Ref N 40<br><br>GPS Lat. 47° 29’ 30”<br>GPS Long -3° 8.15”<br><br>Supermarket<br>Super U ( 1.05 Miles)<br><br><br>Tourist Office (1.13 Miles)<br><br>14 Rue de Verdun<br>56170<br>Quiberon<br>France<br>+33 2-97500784<br><br>Other Info.<br><br>Wild rocky coastline with lovely walks, an area of outstanding natural beauty.<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4eHGrjmiiD-BrY3o0vKAREuuRW-PSbLjpnwCpex58oLGtrxqm_05YT1CkD-HtyWodeN_4eUS23w90rHG4tkPJz_hn2DWmeTm-x_4a1eBXC4W1rSUTd35fgjhOFvr1iTKuSH7Ys1d_a20TKp74CBbMqOxcIGrG6TTNizRvBsZIAC89GTa8ldIuPPFZRChmOv3CsNGhk5NVfnQ_7kgPSHF6xV-TOmZQ86GyrQcXUGYRYeA2RGi73xuO26zuVtuvpJ4RA0Rx_Ry-QMUqLj-I1vnGcLhkyJPdLXFWf3A" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7Tbxhzy3amERGWcKh9DTSmI8RQFkSn-Y9y8T9oW7eqec2HkHQV5aykzgs5mr6L2GF3y2N99vr2KVcGqnmrbiAoN8zQfhSex6yrR6KWUMMi1e3YULwg88LQnt4GuUrjyqtPUuuyytmysEuPvV1xotabkLMJUoX4muhnnWQBs84PIdpMYbw4dBNt https://lh3.googleusercontent.com/umsh/AK26PW4eHGrjmiiD-BrY3o0vKAREuuRW-PSbLjpnwCpex58oLGtrxqm_05YT1CkD-HtyWodeN_4eUS23w90rHG4tkPJz_hn2DWmeTm-x_4a1eBXC4W1rSUTd35fgjhOFvr1iTKuSH7Ys1d_a20TKp74CBbMqOxcIGrG6TTNizRvBsZIAC89GTa8ldIuPPFZRChmOv3CsNGhk5NVfnQ_7kgPSHF6xV-TOmZQ86GyrQcXUGYRYeA2RGi73xuO26zuVtuvpJ4RA0Rx_Ry-QMUqLj-I1vnGcLhkyJPdLXFWf3A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -3.136784,47.495658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sainte-Eulalie-d'Olt Aire]]></name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5Y3AfzxPlKcLhz5Sa7B0nYtGinISJmCn4cH3dFbedC1bipOm2C8_u6k5jCsUTINXXM2wQYpULbEfz8LYdElIRII22bnMphiiCXuI-x2l17-lqoSuk23jq3KsYY24UPUoYwNQ4wrzN1f8W6BCpu9HRk9ayfj3erTj6YCHCn24K-6NsJozdSxC4" height="200" width="auto" /><br><br>Aire de services municipale de camping-car à Sainte Eulalie d'Olt  		12130 		Ste-Eulalie-d'Olt <br>   33 (0)5 65 47 44 59 	 <br>http://www.mairie-ste-eulalie-olt.fr<br><br>44.464881, 2.948775<br><br>Nice site good access for large RV  Marie very welcoming. Do not try to enter village follow camping car signs ignore weight limit signs as they are for the bridge over the river you will not cross turn right just before. 30mins off A75<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4Zb3m3f9bngz5N7IlgXhyiYuaM4wxI93UzEEcy8aUXAN7iQS5855TfyM8chOBCRY6pJBsU17Va8x6-9wvYsTMFx5frc-RfhQ2i8cS3NBIz3WxLfomBiEw-Nf1oORj_n_p5JCe2v_1GvghifyZJ2VccQEdKrw1av6oXC9cb-ka1_T-66CvffaFWTQGgmAaDQZfbNliq1R_gCz0obpDyolRxBF6WK4fhgbZYVGGRBxjdQLNbeNUIvsE-kM1DfOxedgmlfXouXrdhUGnVaaEOLD4fmzfJOm7OrVI" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5Y3AfzxPlKcLhz5Sa7B0nYtGinISJmCn4cH3dFbedC1bipOm2C8_u6k5jCsUTINXXM2wQYpULbEfz8LYdElIRII22bnMphiiCXuI-x2l17-lqoSuk23jq3KsYY24UPUoYwNQ4wrzN1f8W6BCpu9HRk9ayfj3erTj6YCHCn24K-6NsJozdSxC4 https://lh3.googleusercontent.com/umsh/AK26PW4Zb3m3f9bngz5N7IlgXhyiYuaM4wxI93UzEEcy8aUXAN7iQS5855TfyM8chOBCRY6pJBsU17Va8x6-9wvYsTMFx5frc-RfhQ2i8cS3NBIz3WxLfomBiEw-Nf1oORj_n_p5JCe2v_1GvghifyZJ2VccQEdKrw1av6oXC9cb-ka1_T-66CvffaFWTQGgmAaDQZfbNliq1R_gCz0obpDyolRxBF6WK4fhgbZYVGGRBxjdQLNbeNUIvsE-kM1DfOxedgmlfXouXrdhUGnVaaEOLD4fmzfJOm7OrVI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            2.949421,44.464799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Château des Tilleuls</name>
+        <description><![CDATA[N50.8'29" E1.45'45"<br>A well kept campground, very helpful staff, open all year, 10amp, water & grey waste on some pitches, pitches large in comparison to most grounds we have visited, takes up to 12 meters, plenty to do around close by, good place to stay when arriving or leaving for the ferries! Only 12€ with ACSI, open year round.<br><br>http://www.chateaudestilleuls.com/crbst_4_en.html<br><br>Update July 2014<br>I was here with 28ft 5th wheel and althought we managed to get onto a site I will not be returning, we were lucky the site opposite was empty to maneuver and a pretty step gravel road leading up to the supposedly larger sites]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            1.76286,50.1415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>parc verger</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4o9_Hj7XGuj0FYCm5bucPZiBKVO3YN5OdvxwhVzdsk-vOfhdsBsxXIJTP0J7KHV7_aPXsRoNoXgjDxPV4hLlQUI5cCvlMlc_JYWV-s6Jp2nl3zUmp4dddjPJUEbA0Em9uNi_DTZHD-JZ3xj9gFTjuPhZTLL9x7VkSJoN2it2T36LcxmFCtGhJj4vWMERCtHviWB9wZc1GSYUCVfuJUkeJRM4SlbmBZXe5PCcC9E2sZ4UMRYXuXEud6q-oM16sHzLtni5hlV6ZQJp-g4UBUeZdgQX2uLeo7H5k" height="200" width="auto" /><br><br>Address: La Halte, Champagnac La Riviere, Limousin, 87150 France<br>Telephone:+33 555 01 22 83 Email: bureau@parcverger.com Website: www.parcverger.com (http://www.parcverger.com/)<br>Lat: E 0.91956<br>Long: N 45.71540<br>Grid Reference:<br>Site Type: IND Independent Campsite<br>Open From: Open All Year Closes:<br>Children: Family Site<br>Dogs: Dogs Welcome<br>Pitch Type:Mix of Grass & Hardstanding<br>Pitch Size:40ft Max<br>Levels:Level Pitches<br>Hook Up:Yes 16 amps<br>Waste Disposal:Basic Manhole and Elsan<br>Toilets & Shower:Toilets & Free Shower Cleanliness:Spotless<br>Laundry:Coin Machines<br>Wi-Fi Internet:Free Wi-Fi<br>Ambience:Very Peacful<br>Nearest Bar: 1km Nearest Restaurant:1km<br>Nearest Beach: 10km Lakeside Nearest Shops:4.5km<br>Nearest Bus Stop:200m Nearest Railway Station: 40km<br><br>Visitor Comments: Stayed last year. This site was set up by RV’ers and is made to cater for them.<br>Superb facilities and pitches and a great restaurant a short walk away in the village.<br>Despite 5 inches of snow we had a great stay!]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4o9_Hj7XGuj0FYCm5bucPZiBKVO3YN5OdvxwhVzdsk-vOfhdsBsxXIJTP0J7KHV7_aPXsRoNoXgjDxPV4hLlQUI5cCvlMlc_JYWV-s6Jp2nl3zUmp4dddjPJUEbA0Em9uNi_DTZHD-JZ3xj9gFTjuPhZTLL9x7VkSJoN2it2T36LcxmFCtGhJj4vWMERCtHviWB9wZc1GSYUCVfuJUkeJRM4SlbmBZXe5PCcC9E2sZ4UMRYXuXEud6q-oM16sHzLtni5hlV6ZQJp-g4UBUeZdgQX2uLeo7H5k</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.918388,45.716231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Nautique</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7ivxllYenn3oG68upm1-Lxj-OUQJino646K7dBBBIR49NHtPugf91LvEMIhLk_8pFKxHK9YpxnM8hHqatD_9oLxCwgUGtM041b-bPSnpFKtV39X1kzkJHZbcUMbh5D16zJd-7iT3Wv5xoIp3tOokmsfRSEoFjgrk5sTo2JgINZFF29n0fD6lY" height="200" width="auto" /><br><br>32FT RV AND NO PROBLEMS ACCESS OR ON/OFF PITCH<br><br>43.146859, 3.004125<br><br>Not sure how long you are but pitch 236 is great access on a corner, used it twice now and we are 37 ft plus long with trailer and toad, drive round reverse on in one, and then when you leave straight off. There is an in and out entry next to each other just after reception, ask them to raise the out barrier for your first entry! They all have little individual toilet/shower cabins. There is a funny 1.25" dia pipe on the cabin wall outside that you can stick a macerator pipe in and pump straight to the drain. Not obvious initially. DO NOT confuse the 4 inch sewerage caps in the bushes as a drain, they are for watering the tree roots. Flooded them as a test, with my grey only fortunately<br><br>BIG WARNING. mosquitos in squadrons, spray yourself before you get out of the coach when you arrive, even during the day. Boots stuff worked fine.<br><br>http://www.campinglanautique.com/?lang=en#<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112730)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4dn6UCz11V0pJhL83o9rAWDR5ApEahtzGaDlTt02gcc30DV0G1n5i-pNROePu8qyOXT5EZYnujbwJImtiyKkKt31d9ghaNWi3lGuXasODMwDmGPYCuh__lzLvDNhRP4h4Hza43-_-lM33cdBYAUNm_YJaaYSDPz9wjLPc3K3x2o5zA468CQMsHF5cnL01wuexycumBvGq7w3MTRIDp8k489Lr93W7pWmP75ywpw7CnPuBCsTp8Tfg2zwA2cPTJbfHL7dWW4rRyty7C5ZHs6uhV-HepYEVexA" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7ivxllYenn3oG68upm1-Lxj-OUQJino646K7dBBBIR49NHtPugf91LvEMIhLk_8pFKxHK9YpxnM8hHqatD_9oLxCwgUGtM041b-bPSnpFKtV39X1kzkJHZbcUMbh5D16zJd-7iT3Wv5xoIp3tOokmsfRSEoFjgrk5sTo2JgINZFF29n0fD6lY https://lh3.googleusercontent.com/umsh/AK26PW4dn6UCz11V0pJhL83o9rAWDR5ApEahtzGaDlTt02gcc30DV0G1n5i-pNROePu8qyOXT5EZYnujbwJImtiyKkKt31d9ghaNWi3lGuXasODMwDmGPYCuh__lzLvDNhRP4h4Hza43-_-lM33cdBYAUNm_YJaaYSDPz9wjLPc3K3x2o5zA468CQMsHF5cnL01wuexycumBvGq7w3MTRIDp8k489Lr93W7pWmP75ywpw7CnPuBCsTp8Tfg2zwA2cPTJbfHL7dWW4rRyty7C5ZHs6uhV-HepYEVexA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            3.004246,43.147341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camp Municipal La Citadelle</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5uMTRrw5rbLQn5DD45Qz7maeEKaC-giukuahdC-8ECPlUMZwyKyYJCmUvpOgNiMvceAoi1gKTAM6Qrde_eqXzNFYvmHwLH4guPPsg2ilT8Yot-x3yxbQl_BRBMg0Y3swkuKbl4ONpxEFhy3BkVqDlDtoYNiN5cMTEobfeJdoPijlHIe5TeX6A" height="200" width="auto" /><br><br>Rue Vaubanrue      <br>      Montmedy<br>Lorraine - Alsace  <br>      55600 <br><br><br>        +33 (0)3-29801040            <br>        +33 (0)3-29801298<br><br>                            N 49°31'17"  E 5°21'40"         (http://www.eurocampings.co.uk/en/gps-coordinates/l2-n1042/)        <br><br>Access good if you don't come through the town centre and take the bypass D947 and take road direct to site D110D.  Pitches biggest I have ever seen.  Drive on drive off.  Dump point outside the gates.  Showers and toilets basic but very clean.  Bread van in a morning. 9 euros per night in June.  TV reception hit and miss depending on pitch<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW6ZKKJrVfLMPEHkXYevuFdHDPZgrm2-Zvt6ufzq_giLti16q4cVs0CAEx7MB_684rlelLNhJ2TvwSOlnKwqK5ZilCtD_vHS82aLvHWOSn6zNDk-o-UMVE3qS4GfvgcjrnAX-HqNgPw6BPyJYf0YZoswT0tdKvztV6upRXFlmI2-r31hq86W0mYXCnTxyM-MRaOr1GgELZGiQfvyuCJIjAEHRaePPAf3i34YZgh1AJ5nUbyL_EAqMOrY6RHiYgLJJrctAkWbvMdZwTwGbERO4rvLN1pbc01UtXI" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5uMTRrw5rbLQn5DD45Qz7maeEKaC-giukuahdC-8ECPlUMZwyKyYJCmUvpOgNiMvceAoi1gKTAM6Qrde_eqXzNFYvmHwLH4guPPsg2ilT8Yot-x3yxbQl_BRBMg0Y3swkuKbl4ONpxEFhy3BkVqDlDtoYNiN5cMTEobfeJdoPijlHIe5TeX6A https://lh3.googleusercontent.com/umsh/AK26PW6ZKKJrVfLMPEHkXYevuFdHDPZgrm2-Zvt6ufzq_giLti16q4cVs0CAEx7MB_684rlelLNhJ2TvwSOlnKwqK5ZilCtD_vHS82aLvHWOSn6zNDk-o-UMVE3qS4GfvgcjrnAX-HqNgPw6BPyJYf0YZoswT0tdKvztV6upRXFlmI2-r31hq86W0mYXCnTxyM-MRaOr1GgELZGiQfvyuCJIjAEHRaePPAf3i34YZgh1AJ5nUbyL_EAqMOrY6RHiYgLJJrctAkWbvMdZwTwGbERO4rvLN1pbc01UtXI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            5.361269,49.521211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Caravaneige Champ du Moulin</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5Ls7oukQ5rQLP55pAEKRzsgWCyeTi7BaCl7cRbsWFOnCE2R3f7L_5HyrqmQVyzX6byhkIGBrgMkqn3SoM01WeC2SitYlujVEWY6xSg2v-T8dXxnC8qqChp55M6YgSGT-0I62x1Q8qVitvL70eUWlRsfpZkvzmDG_FI8Lkxci6I_2YBa2StAQ" height="200" width="auto" /><br><br>Bourg d'Arud						<br>38520 VENOSC						<br>Campsite GPS, lat. : 44,98596    long. : 6,11986<br><br>00 33 (0)4 76 80 07 38<br><br>http://www.champ-du-moulin.com/en/welcome.html<br><br><br>Access OK.  Pitch size excellent.  Toilets and showers basic but clean<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW7-iEIlY22H07hrF-u9_wmwUBc2U_NkVDtn9vcpuTqlVS4xkIo_uQTKeBTW32MvioHM826kJRi5Tnah4Aw_fCficn9aX2YHjLUxfyEfeUZD32oAnUTh9P5UUx6ULqjB6BDbaOqd_D82PqRTxwVJWEivCiX--vdFDezlVMdlD6jnFfgF0YY_HAXlp85E_wB-LAhVwBk1iZGyy9wQ6RKao5o5f9KhbZVqi4uelEhRUAzbRePCVAmnZg3Jbn6XXYAF8B_aeeksLVM3d83ybeewjBettfAFtld-yg" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5Ls7oukQ5rQLP55pAEKRzsgWCyeTi7BaCl7cRbsWFOnCE2R3f7L_5HyrqmQVyzX6byhkIGBrgMkqn3SoM01WeC2SitYlujVEWY6xSg2v-T8dXxnC8qqChp55M6YgSGT-0I62x1Q8qVitvL70eUWlRsfpZkvzmDG_FI8Lkxci6I_2YBa2StAQ https://lh3.googleusercontent.com/umsh/AK26PW7-iEIlY22H07hrF-u9_wmwUBc2U_NkVDtn9vcpuTqlVS4xkIo_uQTKeBTW32MvioHM826kJRi5Tnah4Aw_fCficn9aX2YHjLUxfyEfeUZD32oAnUTh9P5UUx6ULqjB6BDbaOqd_D82PqRTxwVJWEivCiX--vdFDezlVMdlD6jnFfgF0YY_HAXlp85E_wB-LAhVwBk1iZGyy9wQ6RKao5o5f9KhbZVqi4uelEhRUAzbRePCVAmnZg3Jbn6XXYAF8B_aeeksLVM3d83ybeewjBettfAFtld-yg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.113543,44.990568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Haliotis</name>
+        <description><![CDATA[Chemin des Soupirs<br>50170 Pontorson, France<br><br>+33 2 33 68 11 59<br>camping-haliotis-mont-saint-michel.com (http://www.camping-haliotis-mont-saint-michel.com/english-version-camping-haliotis-mont-saint-michel.html)‎ (http://www.camping-haliotis-mont-saint-michel.com/english-version-camping-haliotis-mont-saint-michel.html)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.510963,48.556742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Sans Souci</name>
+        <description><![CDATA[Rue Du Haut Ary      <br>      Fresnay Sur Sarthe<br>Pays de la Loire   <br>      72130<br>Tel: 02 43 97 32 87<br><br>http://www.camping-fresnaysursarthe.fr/en/presentation.htm<br><br>review (http://www.ukcampsite.co.uk/sites/reviews.asp?revid=6167)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            0.012445,48.284407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puy du Fou aries</name>
+        <description><![CDATA[Per night: 5 Euros (2014) - collect ticket on entry, pay on exit at machine<br><br>It's big, as a quick zoom into the page top photo will reveal. A network of gravel tracks runs between a mixture of grassy and sandy unmarked bays, most of which are sloping, so be prepared to get your chocks out, even in Row 4 which appears to be the most horizontal of them all.you're not obliged to visit the theme park if you stop here, so it could provide a convenient overnight low cost stop on your way to or from the Vendee. There are two entrances from the main D27, of which the easiest is to head for the Grand Parc entrance and follow the Camping-Car signs. On arrival at the Aire you collect a barcoded ticket at the barrier. On exit you park near the automated pay booth, walk over and scan the barcode at the machine then pay for your stay with either cash or card. You then need the same barcode to scan at the exit barrier before it lifts up to let you out. By the entrance there is a public loo portakabin, and a bread kiosk that opens from 7-9am in the morning. The Aire is about 10-12 minutes' brisk walk from the park entrance, or you can catch a free shuttle train from the Aire between 9.15am and 9.45am (returning 8.15pm - 8.45pm).<br>Expect some serious pyrotechnic noise around midnight on Fridays and Saturdays, when the nearby Cinéscénie climaxes in cannon fire and a large firework display.<br>For such a huge Aire, the service point is a bit limited, with only two pull-in bays and only one chemical waste gulley. Water costs you 2 Euros for up to 100 litres, and there is no electricity on site. If you don't depart early you could end up queueing for quite a while here in the morning.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.936112,46.890642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Municipal de Malicorne</name>
+        <description><![CDATA[http://translate.google.co.uk/translate?hl=en&sl=fr&u=http://www.ville-malicorne.fr/camping/&prev=/search%3Fq%3DCamping%2BMunicipal%2Bde%2BMalicorne%26client%3Dfirefox-a%26hs%3D3jM%26rls%3Dorg.mozilla:en-US:official%26channel%3Drcs]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.088202,47.817139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le ST Martin</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5-1aQgfRHqdxtyHnqau78NPK-IBDsPHa7htWvG4SEAgq-wlsLOK4xd-GjGnAviErbxlInTB4D1mo8Cg1A1E2FFIGfNSvRKnXu_O2pNLg77JmUvYjhMbctNmNt2T_Kx5O4h4DDKjYhWSUdYZoMrHQI2QSnx7xjxlfR-QJrohbJnSCETkBxhKSEr" height="200" width="auto" /><br><br>http://www.camping-saint-martin.fr/campsite-landes-pitch.html<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW6vPMVVEepNBKdjH_cNa25ycLeipSk34hh5tAgao1boD5BMck5PiBUxqFW8Je3ehaCd2ee-Zl7kQccTU_K2zSxhz_DMHIdvEJTujxQjH1jwiwj_s1HRu-1_TS-64C9czT8002kXBAk5yzc7sGs1YOsA7USjIIUG222m1MfWmB2Na3plqLSYBvon76J4-KuCG62plzzaPNNdJ5mydPhzePZf1v3eh-jDfs0xWAfm8gOoE4WcgQLjo8ty1gUlzMo7NLn-m3hWIG_tg_3hIUhMBl4d2NqqQkJMJivk2Q" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5-1aQgfRHqdxtyHnqau78NPK-IBDsPHa7htWvG4SEAgq-wlsLOK4xd-GjGnAviErbxlInTB4D1mo8Cg1A1E2FFIGfNSvRKnXu_O2pNLg77JmUvYjhMbctNmNt2T_Kx5O4h4DDKjYhWSUdYZoMrHQI2QSnx7xjxlfR-QJrohbJnSCETkBxhKSEr https://lh3.googleusercontent.com/umsh/AK26PW6vPMVVEepNBKdjH_cNa25ycLeipSk34hh5tAgao1boD5BMck5PiBUxqFW8Je3ehaCd2ee-Zl7kQccTU_K2zSxhz_DMHIdvEJTujxQjH1jwiwj_s1HRu-1_TS-64C9czT8002kXBAk5yzc7sGs1YOsA7USjIIUG222m1MfWmB2Na3plqLSYBvon76J4-KuCG62plzzaPNNdJ5mydPhzePZf1v3eh-jDfs0xWAfm8gOoE4WcgQLjo8ty1gUlzMo7NLn-m3hWIG_tg_3hIUhMBl4d2NqqQkJMJivk2Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.387024,43.852494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping De La Cote</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6Tw9qoqPqDP2WikqVgp4n8fZQiIr_ZMC5oOU_lh8Bl_R4qnCLMfMA93egPHrv7nvcYa6oEkK8paY0Ov5HFz5qDuYI2tw6tt65E-cGIsrnLKS5Tuxf8OL5PqMLrMwOk-CiabCoApDXHHc_I_jcPyi5VI51c1C2mXLrgce6C2v7GPcJlY2OUs032" height="200" width="auto" /><br><br>Chemin De La Cote      <br>      Messanges<br>Aquitaine  <br>      40660<br>http://www.campinglacote.com/pitches-campsite-landes.php#<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW65bqJUFRZCDRlm7_LzpGG9q54nu7rEROvh2r0pfD5OLWWBIKgrSiDhWeYJlUMSRl_zcgOMZ2q_o1z-tZRVvTqycDRnk8s9Hm0C10_iNTwMzkh3sdyVbmwy2hl7NOyB2uzo3z1q5I-FWDh-padkTAR4uiHbe_TJaX1igliZWnR809_13dlNAALIZkS6wpfjzCAR1XUmdeJShEG96yl5Bty46OY0d7-aIaAmZtBTmZlw7kZ_TLBox_C8M3zSpb9uuTQMZeOUYGlUtuS54ZH7W7lReqHzKGv2VHGLJw" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6Tw9qoqPqDP2WikqVgp4n8fZQiIr_ZMC5oOU_lh8Bl_R4qnCLMfMA93egPHrv7nvcYa6oEkK8paY0Ov5HFz5qDuYI2tw6tt65E-cGIsrnLKS5Tuxf8OL5PqMLrMwOk-CiabCoApDXHHc_I_jcPyi5VI51c1C2mXLrgce6C2v7GPcJlY2OUs032 https://lh3.googleusercontent.com/umsh/AK26PW65bqJUFRZCDRlm7_LzpGG9q54nu7rEROvh2r0pfD5OLWWBIKgrSiDhWeYJlUMSRl_zcgOMZ2q_o1z-tZRVvTqycDRnk8s9Hm0C10_iNTwMzkh3sdyVbmwy2hl7NOyB2uzo3z1q5I-FWDh-padkTAR4uiHbe_TJaX1igliZWnR809_13dlNAALIZkS6wpfjzCAR1XUmdeJShEG96yl5Bty46OY0d7-aIaAmZtBTmZlw7kZ_TLBox_C8M3zSpb9uuTQMZeOUYGlUtuS54ZH7W7lReqHzKGv2VHGLJw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.391391,43.800658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Eurosol</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW75_Z8E_tyt68J5sdmvzrvBBfuRLSCTTINlelQQYTqGrjGaXt4WGBIiw5o8oNv6MjgtXs0mldwT5Q2eMSDI_-G738cMpQGHJr6-Tb4twwz6smB73wChbsVXorzhLi-YKp4oQjdK51rG1nf-qawse5C3UsayL0jWfO4bl8ttSbOiTKPKIX5qCG_k" height="200" width="auto" /><br><br>Route De La Plage<br>Saint Giron Plage<br>Aquitaine   <br>40560<br>http://www.camping-eurosol.com/campsite-france-landes.php<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW7y_NmifKuaE-o1bX8Ntbf47J32afhYKhjSUN2bISohPNzVou8KwwvuT3sy8Tv3KcAIh-ytyv0NjowYCMaeAolgdmYaosIupeAeKUQsUyYi4aLyTs_2F7-SInH2llHKIa3J48pOebVltQeJP6euTv-8aBVkcYPQMinirccPhQl_T_KZCj0BxeGC_IvNiIKv_zr0_9HPYdShgs_2jW-Py98PbCmOtwGZVb-9b6413209L-dekoV0MRAv7CsM9BqDtQkI2EWTe6ehyccsjTr2JOhJPutUo8OOB36L" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW75_Z8E_tyt68J5sdmvzrvBBfuRLSCTTINlelQQYTqGrjGaXt4WGBIiw5o8oNv6MjgtXs0mldwT5Q2eMSDI_-G738cMpQGHJr6-Tb4twwz6smB73wChbsVXorzhLi-YKp4oQjdK51rG1nf-qawse5C3UsayL0jWfO4bl8ttSbOiTKPKIX5qCG_k https://lh3.googleusercontent.com/umsh/AK26PW7y_NmifKuaE-o1bX8Ntbf47J32afhYKhjSUN2bISohPNzVou8KwwvuT3sy8Tv3KcAIh-ytyv0NjowYCMaeAolgdmYaosIupeAeKUQsUyYi4aLyTs_2F7-SInH2llHKIa3J48pOebVltQeJP6euTv-8aBVkcYPQMinirccPhQl_T_KZCj0BxeGC_IvNiIKv_zr0_9HPYdShgs_2jW-Py98PbCmOtwGZVb-9b6413209L-dekoV0MRAv7CsM9BqDtQkI2EWTe6ehyccsjTr2JOhJPutUo8OOB36L</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.351275,43.95166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Le Logis Du Breuil</name>
+        <description><![CDATA[Camping Le Logis Du Breuil<br>36 Rue du Centre<br>17570 Saint-Augustin-sur-Mer, France<br>+33 5 46 23 23 45<br>logis-du-breuil.com (http://en.logis-du-breuil.com/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112658)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.095886,45.671644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Au Fil de l'Eau]]></name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.628694,45.755197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camping la bien assise</name>
+        <description><![CDATA[camping la bien assise<br>D231<br>62340 Guînes, France<br>+33 3 21 35 20 77<br>camping-la-bien-assise.com (http://www.camping-la-bien-assise.com/)<br><br>RV friendly<br><br>It was very handy to Calais, the site directions took us straight there. The entrance is fine. Our pitch was fully serviced, water, waste and electrics easy to get at and a nice touch, unasked for a tiny BBQ, not used, a clean set of chairs and tables, stopped us unloading ours.<br>Downside, the bar was dull, the shop almost empty of goods, but it does close at end of month. We paid for our fully serviced pitch 26. 40 euros. I used toilet and showers bit dated but was OK, seen worse.<br><br>Would I use it again, yes, it is very handy either leaving UK or going back.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            1.857226,50.866191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puy du Fou</name>
+        <styleUrl>#icon-18-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.931531,46.891925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Municipal de la Vée</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.419428,48.547792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping de la Cité</name>
+        <description>43.200018, 2.353697</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.353553,43.200264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Fontisson ***</name>
+        <description>this campsite is like a little slice of heaven – we’re under some pine trees, it’s 30 degrees C, the pool is lovely, we’re surrounded by vineyards, and Avignon looks amazing…think we may stay awhile</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.933226,43.928545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Plage</name>
+        <description><![CDATA[Quick Site Description<br><br>Quite site directly next to beach<br><br>Address of the site<br><br>Avenue Des Campings<br>34340 Marseillan Plage<br>Hérault<br>Languedoc<br><br>Tel No<br><br>-<br><br>Email<br><br>-<br><br><br><br>Opening Times<br><br>April to September<br><br>Pitch Levels<br><br>Slightly Sloping<br><br>Pitch Type<br><br>Mixture of grass and Hard-standing<br><br>Toilet Block<br><br>Good Clean facility<br><br>Swimming<br><br>No Pool<br><br>Wifi<br><br>No Wifi<br><br>Laundry<br><br>Service Washes<br><br>Nearest public transport<br><br>10 minute walk<br><br>Nearest Restaurant<br><br>10 minute walk<br><br>Nearest Shops<br><br>10 minute walk<br><br>Anything else you would like to add<br><br>RV friendly site, capable of taking the biggest RV.<br>This is a quite campsite directly next to a fantastic powdery beach that is great for kids.<br>A ten minute walk and you are in the village centre with loads of restaurants and bars.<br><br>43.304488 - 3.541051]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.546073,43.309761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Caravaning des 4 Vents</name>
+        <description><![CDATA[Location: Crevecoeur-en-Brie, France (near Paris).<br>Website: http://www.caravaning-4vents.fr/index.html?lg=gb<br>Accepts tents, caravans, motorhomes and 5th wheelers.<br>Caters for toddlers through to grandparents.<br><br>Local to Paris (20 mins) and Disneyland (15 mins).<br>Good facilities for the kids and adults.<br>All pitches are large.<br>Booking through the Caravan Club gets a discount.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.897301,48.750601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Château du Gandspette</name>
+        <description><![CDATA[Location: Eperleques, Northern France (near Calais).<br>Website: http://www.chateau-gandspette.com/camps ... alais.html<br>Accepts tents, caravans, motorhomes 5th wheelers.<br>Caters for toddlers through to grandparents.<br><br>Nice site with all the facilities and kept clean.<br>Good size pitches.<br>Mostly used as a 'stop over' before the ferry crossing but worthy of a few extra nights stay up to a week.<br><br>We stayed with our Celtic Rambler and they were very accommodating.  We had a hard standing pitch with electric hookup near a water point and the shower block.  The pitch was easy to get into.  <br>The owner speaks excellent english - I had rung them before booking explaining about our size etc so they reserved the pitch for us.<br><br>133 rue de Gandspette<br>62910 Éperlecques, France<br>+33 3 21 93 43 93<br>chateau-gandspette.com (http://www.chateau-gandspette.com/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112622)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.177954,50.818978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping</name>
+        <description>no problem with that and when we arrived, the receptionist said she’d got us a space just behind reception…I even drove the rig all the way through the little French village right up to the site :D The camp itself is like a lovely parkland with no marked pitches, just electricity points dotted on the lawns under the trees – take your pick! A very pretty site but a couple of downsides…as we parked up and got out to unhitch, we were almost eaten alive – massive bugs suddenly appeared intent on biting every bit of exposed flesh, and as we were both in shorts, there was a lot available! Big horrible things a bit like a horsefly with a bite to match – argh!!</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.214308,49.166721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping du Cosson</name>
+        <description><![CDATA[Campsite Name<br><br>Camping du Cosson<br><br>Quick Site Description<br><br>Small quite site just south of Orleans.<br><br>Address of the site<br><br>avenue lowendal<br>45240 Ferté-Saint-Aubin (La)<br><br>Tel No<br><br>02 38 76 55 90<br><br>Email<br><br>campingducosson@recrea.fr<br><br>Website<br><br>-<br><br>Opening Times<br><br>4th Mat to 31 October<br><br>Pitch Levels<br><br>Level<br><br>Pitch Type<br><br>Mixture of grass and Hard-standing<br><br>Toilet Block<br><br>Good Clean facility<br><br>Swimming<br><br>No Pool<br><br>Wifi<br><br>No Wifi<br><br>Laundry<br><br>No Laundry<br><br>Nearest public transport<br><br>-<br><br>Nearest Restaurant<br><br>10 min walk<br><br>Nearest Shops<br><br>10 min walk<br><br>Anything else you would like to add<br><br>Stayed on this site last year, owner said he would take any size vehicle.<br><br>Black water dumping into drain on motorhome service area.<br><br>good electrics and water connections]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            1.935267,47.725642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twin Lakes Caravan Park</name>
+        <description><![CDATA[Twin Lakes Caravan Park<br>La Faïencerie<br>17130 Souméras, France<br>+33 5 46 49 77 12<br><br>It has easy access and a nice big flat field with some ehu points, grey/black tank can be emptied straight into the ceptic tank of the site as long as no chemical additives. Water is tested and is fine to , 2 small fishing lakes, tv room, bar, toilets and showers etc. So suitable for even the very large RVs<br><br>45.299468, -0.435962<br><br>http://www.twinlakesfrance.com/<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112690)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.435859,45.298928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping du Bois de Boulogne</name>
+        <description><![CDATA[Great site with public transport to the nearest metro station. We had no problems gaining access, though only 32'. There were two coaches >38' onsite so you folks in A Class should be fine. We had a fully serviced pitch with city water, grey waste and 10kw electricity.<br><br>Only 15 mins on bikes to the Etoile.<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112784)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.236458,48.869457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping La Ribeyre (36ft)</name>
+        <description><![CDATA[45.568900, 2.940300<br>At least 30ft<br> <br>Grass<br>www.camping-laribeyre.com]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.937416,45.562449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Le Pré Bas **** Auvergne</name>
+        <description><![CDATA[45.575600, 2.913800<br>36ft<br>6 Amps<br>Gravel and Grass]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.914724,45.574038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Clos Cacheleux</name>
+        <description><![CDATA[50.0864, 1.715600<br>40ft<br>6 amps <br>Grass<br>http://www.camping-lecloscacheleux.fr/<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112734)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            1.715155,50.086652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Domaine De La Catiniere</name>
+        <description><![CDATA[49.401000, 0.306300<br>38ft<br>4 amps<br>Grasshttp://www.camping-honfleur.com/GB_index.asp]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            0.306137,49.400871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Castel Camping le Brevedent</name>
+        <description><![CDATA[http://www.campinglebrevedent.com/fr/presentation.htm<br><br>At least 30ft<br>10 amps <br>Grass<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112746)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            0.304709,49.225626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Chateau de Martragny</name>
+        <description><![CDATA[49.242900, -0.606100<br>At Least 30ft<br>10 amps <br>Grass<br><br> only about 4 miles outside Bayeux and easy to get at and into, they even have GPS co-ordinates on the bottom of their Home Page. I phoned to ask if they could pitch 2 RVs in the morning and they said that they could so we drove down from the Rouen area and set up camp that afternoon. The massive driveway (which is shown on the camp-site map page, and is where we were parked) accommodated around 40 motorhomes and caravans when we were there and was nowhere near full. The owners were very helpful and spoke English perfectly, they actually cared that we enjoyed our stay]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.60598,49.242996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping De La Gerfleur</name>
+        <description><![CDATA[49.383300, -1.765700<br>At least 30ft<br>6 amps<br>Grass<br>www.lagerfleur.fr/english.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.766276,49.383423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Haliotis</name>
+        <description><![CDATA[48.558000, -1.515000<br>At least 30ft<br>16 amps<br>Grass]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.510963,48.556742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping château de galinée</name>
+        <description><![CDATA[48.585900, -2.257800<br>36ft<br>10 amps <br>Grass<br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112791)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -2.257068,48.585579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Municipal Des Vaugeons</name>
+        <description><![CDATA[Telephone:  0033 243 421414<br>47.833600, 0.279600<br>At Least 38ft<br>6 Amps<br>Gravel or Grass<br><br>http://translate.google.co.uk/translate?hl=en&sl=fr&u=http://www.campingdefrance.com/camping-pays%2Bde%2Bla%2Bloire-sarthe/camping.php%3Flang%3DFR%26NumCamp%3D8029%26NumDep%3D72&prev=/search%3Fq%3Dhttp://www.campingdefrance.com/camping-pays%252Bde%252Bla%252Bloire-sarthe/camping.php%253Flang%253DFR%2526NumCamp%253D8029%2526NumDep%253D72%26biw%3D1266%26bih%3D844]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            0.279336,47.833526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>cvt loisirs</name>
+        <description><![CDATA[47.260300, -0.065300<br><br>30ft<br>10 amps <br>Grass]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.064757,47.259994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>puy rond camping</name>
+        <description><![CDATA[http://www.puyrondcamping.com/<br><br><br>+33 5 49 72 43 22<br>Chemin de Puy Rond<br>79300 Terves, France<br><br>46.832600, -0.499000<br>40ft<br> <br>Grass<br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112810)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.502743,46.830567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Castel Camping La Garangeoire</name>
+        <description><![CDATA[46.661800, -1.713400<br>38ft<br>8 Amps<br>Grass]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.713556,46.663493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Château des Marais</name>
+        <description><![CDATA[47.665900, 1.528500<br>At least 30ft<br>6 or 10amps<br>Grass<br><br>27 Rue de Chambord<br>41500 Muides-sur-Loire, France<br>+33 2 54 87 05 42<br>chateau-des-marais.com (http://www.chateau-des-marais.com/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112768)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            1.528723,47.665954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Municipal de Bourges</name>
+        <description><![CDATA[47.072400, 2.394800<br>At least 30ft<br>6, 10 or 16amps<br>Grass<br>26 Boulevard Industrie<br>18000 Bourges, France<br>+33 2 48 20 16 85<br>ville-bourges.fr (http://www.ville-bourges.fr/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112767)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.395914,47.072498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Les Etangs Fleuris</name>
+        <description><![CDATA[Telephone:  0033 164 041636,<br>Grid:,<br>Lat/Long:  48.733300, 3.047200,<br>30ft, 10 amps, Grass,<br><br><br>Route de la Couture<br>77131 Touquin, France<br>+33 1 64 04 16 36<br>etangsfleuris.com/nous_cont... (http://www.etangsfleuris.com/nous_contacter_169.htm)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.046732,48.731483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Camping Municipal d'Epernay]]></name>
+        <description><![CDATA[Telephone:  0033 326 553214,<br>Grid:,  <br>Lat/Long:  49.057500, 3.949900,<br>32ft, 10 amp, Grass,]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.949788,49.057612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Club lac de Bouzey</name>
+        <description><![CDATA[48.166800, 6.359900<br>At least 30 ft<br>10 amps<br>Grass]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            6.359893,48.166922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Les Jonquilles</name>
+        <description><![CDATA[48.0675  6.9482<br>36ft<br>6 or 10 amp<br>Grass]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            6.950655,48.066523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Intercommunal de Riquewihr</name>
+        <description><![CDATA[Telephone:  0033 389 479008,<br>Lat/Long:  48.162100, 7.316600,<br>34ft, 6 amps, Grass,<br>Web Site, (http://en.camping-alsace.com/camping-municipal-riquewihr)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.316873,48.162336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Marjorie</name>
+        <description><![CDATA[Telephone:  0033 384 242694,<br>Grid:,<br>Lat/Long:  46.684300, 5.567000,<br>36ft, 6 or 10 amps, Grass,<br><br>La Marjorie<br>640 Boulevard Europe<br>39000 Lons-le-Saunier, France<br>+33 3 84 24 26 94<br>camping-marjorie.com (http://www.camping-marjorie.com/)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.141113,49.016257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Village des Meuniers</name>
+        <description><![CDATA[elephones:  0033 385 503660,<br>Grid:,<br>Lat/Long:  46.363700, 4.474600,<br>34ft, 15 amps, Grass]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.475191,46.36387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Indigo Lyon</name>
+        <description><![CDATA[45.820000, 4.761200<br>At least 30ft<br>6 or 10 Amps<br>Grass<br><br>Porte de Lyon<br>69570 Dardilly, France<br>+33 4 78 35 64 55<br>camping-indigo.com/fr/campi... (http://www.camping-indigo.com/fr/camping-indigo-lyon-rhone.html)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.763088,45.819334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Les 4 Saisons</name>
+        <description><![CDATA[44.726800, 4.926700<br>6 or 16 amps<br>Stone / gravel<br><br>36ft<br><br>www.camping-4saisons.com (http://www.camping-4saisons.com/content/en/the-campsite/1/)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.926901,44.727044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Camping L'Europe]]></name>
+        <description><![CDATA[45.568900, 2.940300<br>At least 30ft<br> <br>Grass<br><br><br>Rue de Jassat<br>63790 Murol, France<br>+33 4 73 39 76 66<br>camping-europ.fr (http://www.camping-europ.fr/)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.940297,45.567985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Pré Bas</name>
+        <description><![CDATA[Telephone:  0033 473 886304<br>45.575600, 2.913800<br>36ft<br>6 Amps<br>Gravel and Grass<br><br>63790 Chambon-sur-Lac<br>France<br><br>campingauvergne.com (http://www.campingauvergne.com/)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.915068,45.574575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Caravaning Les Rivages</name>
+        <description><![CDATA[44.101600, 3.096100<br>35ft<br>6 or 10 amp<br>Grass<br><br>Caravaning Les Rivages<br>860 Avenue de l'Aigoual<br>12100 Millau, France<br>+33 5 65 61 01 07<br>campinglesrivages.com (http://www.campinglesrivages.com/)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.096353,44.101393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Castel- Château de Poinsouze</name>
+        <description><![CDATA[Castel- Château de Poinsouze<br>Route de la Chatre<br>23600 Boussac-Bourg, France<br>+33 5 55 65 02 21<br>camping-de-poinsouze.com (http://www.camping-de-poinsouze.com/)<br><br><br>46.372600, 2.204600<br>40ft<br> <br>Grass]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.20366,46.372613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Camping d'Uzurat]]></name>
+        <description><![CDATA[Camping d'Uzurat<br>87280 Limoges<br>France<br><br>campinglimoges.fr (http://www.campinglimoges.fr/)<br><br><br>Telephone:  0033 555 384943<br>45.870600, 1.275800<br>at least 33 ft<br>6 or 10 Amps<br>Gravel]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            1.276056,45.870312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sunêlia Les Bois du Bardelet</name>
+        <description><![CDATA[Sunêlia Les Bois du Bardelet<br>Route de Bourges<br>45500 Gien, France<br>+33 2 38 67 47 39<br>bardelet.com (http://www.bardelet.com/)<br><br><br>47.641300, 2.614900<br>40ft<br>16 Amps<br>Gravel]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.613341,47.641603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Camping de l'Îe Mouchet]]></name>
+        <description><![CDATA[Camping de l'Îe Mouchet<br>Impasse de l'Île Mouchet<br>44150 Ancenis, France<br>+33 2 40 83 08 43<br>camping-estivance.com (http://www.camping-estivance.com/)<br><br><br>47.363100, -1.178000<br>40ft<br>6 or 10 Amps<br>Grass]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.187114,47.362134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Location La Citadelle</name>
+        <description><![CDATA[Camping Location La Citadelle<br>Avenue Aristide Briand<br>37600 Loches, France<br>+33 2 47 59 05 91<br>lacitadelle.com (http://www.lacitadelle.com/)<br><br>47.122200, 1.002200<br>40ft<br>10 amps<br>Grass<br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112714)      but it is a great little town with a good vets & a splendid market on Saturdays.We have booked in the vets this-afternoon for there passports to be stamped ready for the return crossing in few days, & have the market tomorrow to do all of our shopping for pressies.Will wander out & takes some pics later to post...For anyone in an RV this is a great site to stay as they can accommodate any size rig, we actually stayed here in our Monaco, so some of the pitches are huge..]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            1.00247,47.123009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping de la Touche</name>
+        <description><![CDATA[Ferme De La Touche      <br>      Loches<br>Ligueil<br>Loire Valley<br>      37240 <br>Tel: 0033 247 59 54 94<br>http://www.theloirevalley.com/<br><br><br><br>47.055400, 0.846600<br>40ft<br>13amps (charged by Kwt)Grass or gravel<br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112766)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            0.846376,47.05492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Futuriste</name>
+        <description><![CDATA[Le Futuriste<br>86130 Saint-Georges-lès-Baillargeaux<br>France<br>+33 5 49 52 47 52<br>camping-le-futuriste.fr (http://www.camping-le-futuriste.fr/)<br><br><br><br>46.664500, 0.394500<br>40ft<br>6 or 10 amps<br>Grass]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            0.395143,46.664149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping de Courte Vallée</name>
+        <description><![CDATA[Camping de Courte Vallée<br>8 Rue de Courte Vallée<br>79600 Airvault, France<br>+33 5 49 64 70 65<br>caravanningfrance.com (http://www.caravanningfrance.com/)<br><br><br>46.832400, -0.147311<br>40ft<br>8 amps<br>Hardstandings]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.14809,46.832982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Domaine de la Brèche</name>
+        <description><![CDATA[Domaine de la Brèche<br>5 Impasse de la Brèche<br>49730 Varennes-sur-Loire, France<br>+33 2 41 51 22 92<br>domainedelabreche.com (http://www.domainedelabreche.com/)<br><br><br>47.247300, -0.001200<br>38ft<br>10amps<br>Grass]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.001223,47.247244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Les Châteaux</name>
+        <description><![CDATA[Camping Les Châteaux<br>11 Rue Roger Brun<br>41250 Bracieux, France<br>+33 2 54 46 41 84<br>camping-indigo.com (http://www.camping-indigo.com/fr/camping-indigo-les-chateaux.html)<br><br><br>47.5515  1.5391<br>40ft<br>3 Amps<br>Gravel]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            1.539019,47.551394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Huttopia Rambouillet</name>
+        <description><![CDATA[Huttopia Rambouillet<br>Rue du Château d'Eau<br>78120 Rambouillet, France<br>+33 1 30 41 07 34<br>huttopia.com (http://www.huttopia.com/fr/camping-nature-Rambouillet-paris.html)<br><br><br>48.626500, 1.843200<br>At least 30ft<br>6 or 10 amps<br>Grass & hardstandingslink (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112808)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            1.844416,48.626271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping International De Jablines</name>
+        <description><![CDATA[Camping International De Jablines<br>Base Régionale de Plein Air et de Loisirs de Jablines Annet<br>77450 Jablines, France<br>+33 1 60 26 09 37<br>camping-jablines.com (http://www.camping-jablines.com/)<br><br><br>48.913700, 2.734400<br>40ft<br>10 Amps<br>Grass & hardstandings]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.734995,48.912459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Chez Devezeau</name>
+        <description><![CDATA[Camping Chez Devezeau<br>Devezeau<br>16230 Saint-Angeau, France<br>+33 5 45 39 21 29<br>campingdevezeau.com (http://www.campingdevezeau.com/)<br><br>45.842200, 0.272300<br>At Least 30ft]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            0.272271,45.842437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Les Deux Vallees</name>
+        <description><![CDATA[Camping Les Deux Vallees<br>Vézac<br>France<br>+33 5 53 29 53 55<br>les-2-vallees.com (http://www.les-2-vallees.com/)<br><br><br>44.835300, 1.158100<br>40ft<br>6 or 10 amps <br>Grass<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112659)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            1.158714,44.835604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping La Plage</name>
+        <description><![CDATA[Camping La Plage<br>Port de Pessac<br>24230 St. Seurin-de-Prats, France<br>+33 5 53 58 61 07<br><br>44.821900, 0.076500<br>40ft<br>10amps<br>Grass]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            0.077333,44.824731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Camp de Florence</name>
+        <description><![CDATA[Le Camp de Florence<br>Lieu dit "haut camp"<br>32480 La Romieu, France<br>+33 5 62 28 15 58<br>lecampdeflorence.com (http://www.lecampdeflorence.com/)<br><br><br>43.981200, 0.502400<br>40ft<br>10 amps<br>Gravel/Grass]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            0.501766,43.983551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Municipal Le Galan</name>
+        <description><![CDATA[Municipal Le Galan<br>73 Rue du Stade<br>40260 Castets, France<br>+33 5 58 89 43 52<br>camping-legalan.com (http://www.camping-legalan.com/)<br><br><br>43.880400, -1.137600<br>40ft<br>10 Amps<br>Gravel and Grass]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.137503,43.880835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Larrouleta</name>
+        <description><![CDATA[Camping Larrouleta<br>210 Route de Socoa<br>64122 Urrugne, France<br>+33 5 59 47 37 84<br>larrouleta.com (http://www.larrouleta.com/)<br><br><br>43.370600, -1.685900<br>40ft<br>5 amps<br>Grass & Hardstandings]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.686262,43.370254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yelloh ! Village Panorama du Pyla</name>
+        <description><![CDATA[Grande Dune Du Pyla      <br>      Route De Biscarrosse<br>Pyla Sur Mer<br>Aquitaine <br>      33115<br>Tel: 0033 05 56 22 10 44<br><br>http://www.camping-panorama.com/index.html?lghome=gb<br><br><br>44.572500, -1.220300<br>40ft<br>3, 6 or 10 Amps<br>Very Hard ground<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112663)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.220813,44.572693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Camping de l'Arquebuse]]></name>
+        <description><![CDATA[campingarquebuse.com (http://www.campingarquebuse.com/?lang=en)<br><br>  Camping Arquebuse, Highway Atheist, 21130 Auxonne, France,<br>Telephone:  0033 380 310689,<br><br>34FT<br><br>Grid:,<br>Lat/Long:  47.199200, 5.381100,<br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112793)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.382475,47.199066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Village-Camping Les Mimosas</name>
+        <description><![CDATA[yellohvillage.fr/camping/le... (http://www.camping-les-mimosas.fr/en)<br>telephone:  0033 468 490372,<br>Grid:,<br>Lat/Long:  43.136600, 3.025800,<br>At least 30ft, 10amps, Grass,<br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112597)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.023386,43.13624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hippocampe</name>
+        <description><![CDATA[Hippocampe<br>Quartier la Croix<br>Route Napoléon, 04290 Volonne, France<br>+33 4 92 33 50 00<br>l-hippocampe.com (http://www.l-hippocampe.com/)<br><br><br>44.105642, 6.018110<br>At least 36ft<br>10 Amps<br>Gravel and Grass]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            6.015594,44.104906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Municipal de la Bastide</name>
+        <description><![CDATA[Municipal de la Bastide<br>30900 Nimes<br>France<br><br>Telephone:  0033 466 620582<br> <br>43.788043, 4.351659<br>At Least 36ft<br>10 Amps<br>Gravel and Grass]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.351916,43.787418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping du Cadoret</name>
+        <description><![CDATA[Camping du Cadoret<br>Boulevard de Chaterny<br>17450 Fouras, France<br>+33 5 46 82 19 19<br>campings-fouras.com/camping. (http://www.campings-fouras.com/camping-le-cadoret-fouras.php)<br><br><br>Telephone:  0033 546 821919<br> <br>45.993100, -1.087000<br>At least 36ft<br>6 Amps<br>Gravel and Grass<br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112632)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.086477,45.99357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nantes Camping</name>
+        <description>RV/fifth wheel friendly                                             Well deserves a +5. Nantes is a beautiful city and access cannot be easier. A baker and small Spar supermarket within 2 mins walk. Wifi costs a 1E connection charge for as long as you want it.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.556904,47.243158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping de Courte Vallée</name>
+        <description>ok for RV</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.148086,46.832979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Les Châteaux</name>
+        <description><![CDATA[it has a very large swimming pool and very good facilities, is a short walk into the village and can easily accommodate RVs and has a convenient dump facility you can get to with an RV to gravity dump.<br><br>It was reasonable too at 24.80 Euro for one night with electric and 3 adults (over 12 years old)!! :roll:<br><br>Easy to get to as it is on the Blois road in/out of the village directly off a roundabout.<br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112723)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            1.539018,47.551394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Camping Caravaning Le Val d'Authie]]></name>
+        <description><![CDATA[Camping Val d' Authie, Picardie<br><br>Postby Mrtibbs » Sun Mar 15, 2009 9:52 am<br>Another great site that we found, http://www.valdauthie.fr/gb.html again, not to far from Calais and in a wonderful area with plenty to see and do, although I would certainly recommend you have a toad or alternative transport as the site itself is a little remote and I am unsure of public transport in the area.<br>The site was immaculately clean and tidy, although there were loads of chalet style homes on the site, the camping area was good. It was very flat and easy to get onto, although care needs to be taken when entering the site itself as the entrance is a bit tight (get your passenger out to watch those back corners :lol: ), but nothing dramatic. The facilities here are very good with internet available, swimming pool, sauna and private shower room (which was fabulous) a small fitness room etc.<br>Recommended site, hope that you enjoy it.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            1.697592,50.314058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parc de la cote sauvage</name>
+        <description><![CDATA[GPS: 45.6971 -1.2291<br>Campsite set amongst the forest, tight turn after entering site, doubtful for over 34'<br>Dump difficult, waste hog needed, 16amp elec.<br>Good swimming pool complex<br><br>Nice site set amongst the woods. The entrance does have a tightish 90 degree bend, ok for 34-36′ RV.<br><br>Motorhome service point, but not possible for RV’s to reach due to low trees and narrow site road, we used the waste hog for the first time. Wi-fi at reception. 16amp electric. Nice pool area.<br><br>Friendly reception,<br><br>Reasonable restaurant just down the road towards the lighthouse.  The beach the otherside of the dunes is not suitable for children, large waves and strong currents. Super beach the otherside of La Palmyre.<br><br>Many well maintained cycle routes.<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112676)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.227722,45.695794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping International de Maisons Laffitte</name>
+        <description>RV friendly</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.145783,48.939821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Boutinardière</name>
+        <description><![CDATA[La Boutinardière<br>23 Rue Plage de la Boutinardière<br>44210 Pornic, France<br>+33 2 40 82 05 68<br>camping-boutinardiere.com (http://www.camping-boutinardiere.com/)<br><br>RV friendly<br>Nice site about 400yrds from the sea, good indoor and outdoor pool areas, nice bar and restaurant. Good clean facilities, a very French site. With ACSI we only <br>paid 16euros a night, plus an extra 2euros for the two dogs.<br>Good bike routes from the site, some nice little villages to visit, would definitely<br>use the site again if in the area.<br>Would be too tight for anything bigger than 34ft, no problems on any of the roads leading to the site<br><br>UPDATE<br>fifth wheel owner<br><br>Never again.  Overrun with people on the Sunday we arrived.  Couldn’t see the pool for bodies. Not our type of site. Very cramped and both static and touring cramped together.<br>Access roads EXTREMELY tight and access to pitches nearly as bad due to narrow site roads and hedges and trees on the corners of every pitch.  Reasonable size once access achieved. If available there were some where pitch boundaries were staggered which would make access better (none available during our visit)<br>Site is on both sides of road.  We were on the right which is supposed to have the larger pitches, and is also the opposite side of the road from all the facilities.  Shower/WC block OK.<br>Chemical toilet disposal – there is only one and that is and that is on the site across the road.<br>Also only one rubbish point and that was on the main road between the two halves of the site.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -2.052276,47.097715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Municipal Nn Salle Omnisports</name>
+        <description><![CDATA[Camping Municipal Nn Salle Omnisports<br>21230 Arnay-le-Duc<br>France<br><br>Contact<br>    info@campingfouche.com<br>    +33 (0) 380 900 223<br>    +33 (0) 380 902 109<br><br>Motorhome friendly<br>http://www.campingfouche.com/en]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.499867,47.133549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping la Tour des Prises</name>
+        <description><![CDATA[Camping la Tour des Prises<br>Route d'Ars<br>17670 La Couarde-sur-Mer, France<br>+33 5 46 29 84 82<br>lesprises.com (http://lesprises.com/)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.44615,46.204373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Au Port-Punay ***</name>
+        <description><![CDATA[Camping Au Port-Punay ***<br>Les Boucholeurs<br>Allée Bernard Moreau, 17340 Châtelaillon-Plage, France<br>+33 5 46 56 01 53<br>camping-port-punay.com (http://www.camping-port-punay.com/)<br><br> super pitch 21 euro a night where 35 foot and made it]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.083471,46.054904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Le Sougey</name>
+        <description><![CDATA[Camping Le Sougey<br>Lac Rive Ouest<br>73610 Saint-Alban-de-Montbel, France<br>+33 4 79 36 01 44<br>camping-sougey.com (http://www.camping-sougey.com/campsite-france-savoie.html#6)<br><br>position by the lake, some large pitches 40ft RV]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.790364,45.555823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Martel Aire</name>
+        <description><![CDATA[Aire only<br><br>Address Details<br>Rue de 19 Mars<br>Martel<br>Midi-Pyrénées<br>gps location for Martel Aire de Services campsite GPS Co-ordinates: 44.93483565941312 / 1.6065573692321777<br><br>	<br><br>Easy access and plenty of parking area next to the Steam railway station, There is a dump point but across the road through some trees. We think looking at it , it is usable by larger rigs but may have to jiggle a bit to get on and off.<br><br>Martel. Lovely medival village full of little side streets of cobbled roads.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            1.609454,44.933799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Caravaning Les Rivages</name>
+        <description><![CDATA[Caravaning Les Rivages<br>860 Avenue de l'Aigoual<br>12100 Millau, France<br>+33 5 65 61 01 07<br>campinglesrivages.com (http://www.campinglesrivages.com/BIENVENU_GB.htm)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E!12574&authkey=!ADOo227-ogC5m9I&ithint=file%2c.pdf)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.096353,44.101393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Camping L'Oliveraie]]></name>
+        <description><![CDATA[Camping L'Oliveraie<br>Chemin de Bédarieux<br>34480 Laurens env. Béziers, France<br>+33 4 67 90 24 36<br>oliveraie.com (http://oliveraie.com/gb.html)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112581)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.185756,43.536183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Chez Devezeau</name>
+        <description><![CDATA[Camping Chez Devezeau<br>Devezeau<br>16230 Saint-Angeau, France<br>+33 5 45 39 21 29<br>campingdevezeau.com (http://www.campingdevezeau.com/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112587)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            0.27227,45.842437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CAMPING-CLUB LAC DE BOUZEY</name>
+        <description><![CDATA[CAMPING-CLUB LAC DE BOUZEY <br>      19, Rue du Lac <br>      88390 SANCHEY <br>      tél : +33(0) 329 824 941<br>      fax : +33(0) 329 642 803 <br>      <br>http://www.vosgescampings.com/bouzey/gb/index.htm<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112589)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            6.359765,48.166892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Château la Comté</name>
+        <description><![CDATA[Chateau de Lacomte<br>46500 Carlucet<br>France<br>  <br>Tel:  +33 (0) 565 38 75 46 <br>Fax: +33 (0) 565 33 17 68<br>http://www.chateaulacomte.com/index.htm#<br><br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112591)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            1.596569,44.728356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Moulin Monbahus</name>
+        <description><![CDATA[Le Moulin Monbahushttp://www.lemoulin-monbahus.com/<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112598)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            0.505654,44.534113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Camp de Florence</name>
+        <description><![CDATA[Le Camp de Florence<br>Lieu dit "haut camp"<br>32480 La Romieu, France<br>+33 5 62 28 15 58<br>lecampdeflorence.com (http://www.lecampdeflorence.com/content/gb/home/1/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112602)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            0.501766,43.983551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>cvt loisirs</name>
+        <description><![CDATA[cvt loisirs<br>Rue de Verden<br>49400 Saumur, France<br>+33 2 41 40 30 00<br>http://www.cvtloisirs.com/<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112606)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.064759,47.259995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Domaine Catinière</name>
+        <description><![CDATA[Camping Domaine Catinière<br>Riquebec<br>27210 Fiquefleur-Équainville, France<br>+33 2 32 57 63 51<br>camping-honfleur.com (http://www.camping-honfleur.com/GB_index.asp)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112608)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            0.306845,49.39885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping du Lac</name>
+        <description><![CDATA[Camping du Lac<br>09000 Foix<br>France<br>+33 5 61 65 11 58<br>campingdulac.com (http://campingdulac.com/?lang=en)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112610)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            1.615269,42.989298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Municipal Chalons en Champagne</name>
+        <description><![CDATA[RV friendly... the site is nice and peaceful  access not bad ours is 10 mts + trailer making it 14.7 mts we are on grass but level shaded by trees, I was able to reverse onto pitch and still have about 1 mtr left at front. out of the site,turn left, down to the traffic lights,turn right,then up the road on the the left is a large shopping complex<br><br> Camping Municipal Chalons en Champagne<br>Rue de Plaisance<br>51000 Châlons-en-Champagne, France<br>+33 3 26 68 38 00<br>aquadis-loisirs.com/camping...<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112612)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.383266,48.935695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping International De Jablines</name>
+        <description><![CDATA[Camping International De Jablines<br>Base Régionale de Plein Air et de Loisirs de Jablines Annet<br>77450 Jablines, France<br>+33 1 60 26 09 37<br>camping-jablines.com (http://camping-jablines.com/index.php?lg=gb)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112614)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.734995,48.912459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Les Bouleaux</name>
+        <description><![CDATA[Camping Les Bouleaux<br>11 Rue Jaune<br>21200 Vignoles, France<br>+33 3 80 22 26 88<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112618)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.883058,47.026698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Larrouleta</name>
+        <description><![CDATA[Camping Larrouleta<br>210 Route de Socoa<br>64122 Urrugne, France<br>+33 5 59 47 37 84<br>larrouleta.com (http://www.larrouleta.com/index.php?lg=gb)<br>5th wheel friendly<br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112620)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.686273,43.370258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Saint-Louis</name>
+        <description><![CDATA[Camping Saint-Louis<br>62610 Autingues<br>France<br>+33 3 21 35 46 83<br>campingstlouis.com (http://campingstlouis.com/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112624)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            1.975651,50.837939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Ribeyre</name>
+        <description><![CDATA[Rue De Jassat      <br>      Jassat<br>Murol<br>Auvergne   <br>      63790<br>Tel: 33(0)4 73 88 64 29<br><br>web (http://translate.googleusercontent.com/translate_c?client=tmpg&depth=1&hl=en&langpair=fr|en&rurl=translate.google.com&u=http://www.laribeyre.com/&usg=ALkJrhh7Mef-zPEaVF2iyjjle4MK5IoYTQ)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112626)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.939788,45.568032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping du Haras</name>
+        <description><![CDATA[http://www.campsitevannes.com/<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112630)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -2.7279,47.7303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Haliotis</name>
+        <description><![CDATA[Camping Haliotis<br>Chemin des Soupirs<br>50170 Pontorson, France<br>+33 2 33 68 11 59<br>camping-haliotis-mont-saint... (http://www.camping-haliotis-mont-saint-michel.com/english-version-camping-haliotis-mont-saint-michel.html)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112638)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.510963,48.556742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Jura de la Marjorie</name>
+        <description><![CDATA[Camping Jura de la Marjorie<br>Sylvie et Jean-Pierre Costentin<br>640 Boulevard de l'Europe<br>39000 Lons-le-Saunier<br>France<br>Tel. : 33 (0)3 84 24 26 94<br>Fax : 33 (0)3 84 24 08 40http://www.camping-marjorie.com/en/index.htm<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112644)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.566951,46.68464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Chateau de Martragny</name>
+        <description><![CDATA[Camping Chateau de Martragny<br>52 Voie communale Hameau de Saint-Léger<br>14740 Martragny, France<br>+33 2 31 80 21 40<br>chateau-martragny.com (http://www.chateau-martragny.com/index.htm?lang=en)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112652)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.605986,49.243001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Municipal le Galan</name>
+        <description><![CDATA[Camping Municipal le Galan<br>73 Rue du Stade<br>40260 Castets, France<br>+33 5 58 89 43 52<br>camping-legalan.com (http://camping-legalan.com/camping_castets.php?lang=EN)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112654)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.137439,43.880526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Camping de l'Îe Mouchet]]></name>
+        <description><![CDATA[Camping de l'Îe Mouchet<br>Impasse de l'Île Mouchet<br>44150 Ancenis, France<br>+33 2 40 83 08 43<br>camping-estivance.com (http://www.camping-estivance.com/accueil?lang=en)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112656)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.187114,47.362134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>YELLOH! VILLAGE LE DOMAINE DU COLOMBIER</name>
+        <description><![CDATA[1052, Rue des combattants en Afrique du Nord – 83600 FREJUS<br>Tel.: + 33 (0)4 94 51 56 01 - Fax: + 33 (0)4 94 51 55 57<br><br>http://www.frejus-campsite-colombier.co.uk/index.php<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112661)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            6.7265,43.4455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Municiple du lac de conde</name>
+        <description><![CDATA[http://www.lenouvion.com/<br><br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112662)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.779354,50.00542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Castel- Château de Poinsouze</name>
+        <description><![CDATA[Castel- Château de Poinsouze<br>Route de la Chatre<br>23600 Boussac-Bourg, France<br>+33 5 55 65 02 21<br>camping-de-poinsouze.com (http://www.camping-de-poinsouze.com/content/uk/welcome/1/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112665)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.20366,46.37262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Le Futuriste</name>
+        <description><![CDATA[Camping Le Futuriste<br>Rue du Château<br>86130 Saint-Georges-lès-Baillargeaux, France<br>+33 5 49 52 47 52<br>camping-le-futuriste.fr (http://camping-le-futuriste.fr/?lang=en)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112667)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            0.395207,46.663884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping de Bordeaux</name>
+        <description><![CDATA[Camping de Bordeaux<br>Boulevard Jacques Chaban-Delmas<br>33520 Bruges, France<br>+33 5 57 87 70 60<br>camping-bordeaux.com (http://www.camping-bordeaux.com/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112668)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.582318,44.895662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping 4 saisons‎</name>
+        <description><![CDATA[Camping 4 saisons (http://maps.google.fr/local_url?dq=camping+des+quatre+saisons+Route+de+Roche+sur+Gr%C3%A2ne,+26400+Grane&q=https://plus.google.com/106626329243712032700/about%3Fgl%3Dfr%26hl%3Dfr&s=ANYYN7mGBcqsj1d4bTd8viZZ1_FN2kT7Bg)‎<br><br>Route de Roche sur Grâne<br>26400 Grane<br><br>04 75 62 64 17<br>camping-4-saisons.com (http://www.camping-4saisons.com/content/en/the-campsite/1/)‎ (http://www.camping-4saisons.com/content/en/the-campsite/1/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112671)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.9267,44.7268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Village des Meuniers</name>
+        <description><![CDATA[Le Village des Meuniers<br>Les Meuniers<br>71520 Dompierre-les-Ormes, France<br>+33 3 85 50 36 60<br>villagedesmeuniers.com (http://villagedesmeuniers.com/11.php)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112672)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.475191,46.36387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hôtel Les Sapins</name>
+        <description><![CDATA[Hôtel Les Sapins<br>2 Route de Tarbes<br>64320 Ousse, France<br>+33 5 59 81 74 21<br>camping-hotel-les-sapins.fr (http://camping-hotel-les-sapins.fr/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112673)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.269578,43.288909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Bois des Ecureuils</name>
+        <description><![CDATA[Le Bois des Ecureuils<br>RN100, Domazan, 30390<br>France<br>+33 4 66 57 10 03<br>leboisdesecureuils.com (http://www.leboisdesecureuils.com/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112674)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.665542,43.951865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Camping Le P'tit Bois]]></name>
+        <description><![CDATA[Camping Le P'tit Bois<br>La Lande Chalandouze<br>35430 Saint-Jouan-des-Guérets, France<br>+33 2 99 21 14 30<br>ptitbois.com (http://ptitbois.com/?lg=2)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112680)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.986337,48.609902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Le Paradis</name>
+        <description><![CDATA[Camping Le Paradis<br>Mareuil<br>Mazières 16270<br>France<br>By Phone/Fax:                     <br>Within France Tel/Fax: 05 45 84 92 06<br>From Outside France 00 33 5 45 84 92 06<br>French Mobile 00 33 6 43 63 84 77<br>http://www.le-paradis-camping.com/<br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112682)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            0.557324,45.83354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parc Sainte-Brigitte</name>
+        <description><![CDATA[Parc Sainte-Brigitte<br>44420 La Turballe<br>France<br>http://en.camping-sainte-brigitte.com/<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112688)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -2.474091,47.341687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Domaine de la Brèche</name>
+        <description><![CDATA[Domaine de la Brèche<br>5 Impasse de la Brèche<br>49730 Varennes-sur-Loire, France<br>+33 2 41 51 22 92<br>domainedelabreche.com (http://www.domainedelabreche.com/web/?lang=en)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112703)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.001223,47.247244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Caravaning Les Cigales</name>
+        <description><![CDATA[Camping Caravaning Les Cigales<br>4 Jas de la Paro<br>83490 Le Muy, France<br>+33 4 94 45 12 08<br>camping-les-cigales-sud.fr (http://www.lescigales.com/content/gb/home/1)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112707)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            6.543732,43.462077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Soubeyranne</name>
+        <description><![CDATA[La Soubeyranne<br>1110 Route de Beaucaire<br>30210 Remoulins, France<br>+33 4 66 37 03 21<br>franceloc.fr/camping-france...<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112709)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.562137,43.925601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camping la bien assise</name>
+        <description><![CDATA[camping la bien assise<br>D231<br>62340 Guines, France<br>+33 3 21 35 20 77<br>camping-la-bien-assise.com (http://www.camping-la-bien-assise.com/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112721)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            1.85802,50.866198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Les Gaves</name>
+        <description><![CDATA[Camping Les Gaves<br>Quartier Pon<br>64440 Laruns, France<br>+33 5 59 05 32 37<br>campingdesgaves.com (http://campingdesgaves.com/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112736)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.417488,42.983184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Le Plein Air des Chênes</name>
+        <description><![CDATA[Camping Le Plein Air des Chênes<br>Avenue de Castelnau<br>34830 Clapiers, France<br>+33 4 67 02 02 53<br>http://www.sandaya.fr/web/EN/campings/France/Languedoc/Le-Plein-Air-des-Chenes/Overview.htm<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112739)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.894911,43.651541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Castel Camping La Garangeoire</name>
+        <description><![CDATA[Castel Camping La Garangeoire<br>La Garangeoire<br>85150 Saint-Julien-des-Landes, France<br>+33 2 51 46 65 39<br>camping-la-garangeoire.com (http://www.camping-la-garangeoire.com/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112740)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.713556,46.663494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Camping Municipal Le Vallon de l'Ehn]]></name>
+        <description><![CDATA[Camping Municipal Le Vallon de l'Ehn<br>1 Rue de Berlin<br>67210 Obernai, France<br>+33 3 88 95 38 48<br><br>http://www.obernai.fr/fr/Le-Camping-municipal-103.html<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112741)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.468042,48.464755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping le Rioumajou</name>
+        <description><![CDATA[Camping le Rioumajou<br>Bourisp<br>65170 Saint-Lary-Soulan, France<br>+33 5 62 39 48 32<br>camping-le-rioumajou.com (http://camping-le-rioumajou.com/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112744)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            0.338881,42.839078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping les Jonquilles</name>
+        <description><![CDATA[Camping les Jonquilles<br>2553 Route du Lac<br>88400 Xonrupt-Longemer, France<br>+33 3 29 63 34 01<br>camping-jonquilles.com (http://camping-jonquilles.com/camping_LES_JONQUILLES_2010/CAMPING_LES_JONQUILLES_acc_gb.html)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112750)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            6.94793,48.067726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping** Les Portes de la Baie de Somme</name>
+        <description><![CDATA[Camping** Les Portes de la Baie de Somme<br>Rue du Marais Talsac<br>80132 Mareuil-Caubert, France<br>+33 3 22 31 62 37<br>http://www.abbeville-tourisme.com/h%C3%A9bergement/campings/camping-municipal/<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112753)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            1.823055,50.079351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Le Nauzan-plage</name>
+        <description><![CDATA[Camping Le Nauzan-plage<br>39 Avenue de Nauzan Plage<br>17640 Vaux-sur-Mer, France<br>+33 5 46 38 29 13<br>campinglenauzanplage.com (http://www.campinglenauzanplage.com/fr/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112754)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.072143,45.642683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Camping Municipal d'Epernay]]></name>
+        <description><![CDATA[Camping Municipal d'Epernay<br>Allée de Cumières<br>51200 Épernay, France<br>+33 3 26 55 32 14<br>ccepc.fr/ccepc.asp?crit1=&a... (http://www.ccepc.fr/ccepc.asp?crit1=&crit2=447&idpage=5411)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112783)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.949778,49.057614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping du Vivier aux Carpes</name>
+        <description><![CDATA[5th wheel friendly.............Camping du Vivier aux Carpes<br>10 Rue Charles Voyeux<br>02790 Seraucourt-le-Grand, France<br>+33 3 23 60 50 10<br>camping-picardie.com]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.21415,49.78177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>de riquewihr</name>
+        <description><![CDATA[http://en.camping-alsace.com/<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112785)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.3166,48.1621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Municipal de Mâcon</name>
+        <description><![CDATA[Camping Municipal de Mâcon<br>1 Rue des Grandes Varennes<br>71000 Sancé, France<br>+33 3 85 38 16 22<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112798)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.844971,46.329876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sunêlia Les Bois du Bardelet</name>
+        <description><![CDATA[Sunêlia Les Bois du Bardelet<br>Route de Bourges<br>45500 Gien, France<br>+33 2 38 67 47 39<br>bardelet.com (http://www.bardelet.com/fr/notre-camping-p1.php)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112800)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.613341,47.641603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Castel-Camping Château de l'Epervière]]></name>
+        <description><![CDATA[Castel-Camping Château de l'Epervière<br>Rue du Château<br>71240 Gigny-sur-Saône, France<br>+33 3 85 94 16 90<br>domaine-eperviere.com (http://www.domaine-eperviere.com/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112805)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.943965,46.654444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Holiday Marina</name>
+        <description><![CDATA[Camping Holiday Marina<br>Route nationale 98<br>83310 Grimaud, France<br>+33 4 94 56 08 43<br>holiday-marina.com (http://holiday-marina.com/)<br><br>This site can take RV’s but only on a few pitches. The main entrance is impossible for any RV so you must arrange with them to open the gates at the back of the site to gain access. When we stayed they had just received a delivery of new static vans which prevented us from getting onto the larger pitches. They did however get us onto another pitch which we over hung a bit. Access to this was very tight but we made it. We stayed here in February and had we realised what was available in St Tropez at this time of year we would probably have gone there. The port front is available as an Aire in the winter months. Right in the middle of St Tropez and very reasonably priced.<br>The site has a great restaurant. There is also a spa which looked great but was pricey.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            6.573139,43.26996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Les Casteillets</name>
+        <description><![CDATA[Les Casteillets<br>66490 Saint-Jean-Pla-de-Corts<br>France<br>+33 4 68 83 52 28<br>campinglescasteillets.com (http://www.campinglescasteillets.com/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112814)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.78379,42.509644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Vieille Ferme</name>
+        <description><![CDATA[La Vieille Ferme<br>296 Boulevard des Groules<br>06270 Villeneuve-Loubet, France<br>+33 4 93 33 41 44<br>vieilleferme.com (http://www.vieilleferme.com/)<br><br>Comments:<br><br>I am here now enjoying the site in my 37ft, it gets very busy so must book well in advance. very popular with English speaking people<br><br><br>One of few sites open all year in Southern France.<br>Easy access to the site. We were one of 2 RVs on the site. Some of the pitches will be difficult to get on to but let them know your size when booking and they will get you onto the easier ones. Great location for seeing the area.<br>English spoken and the staff were very helpful]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.125653,43.619627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Indigo Lyon</name>
+        <description><![CDATA[Camping Indigo Lyon<br>Porte de Lyon<br>69570 Dardilly, France<br>+33 4 78 35 64 55<br>Camping Indigo Lyon<br>Porte de Lyon<br>69570 Dardilly, France<br>+33 4 78 35 64 55<br>camping-indigo.com/fr/campi.. (http://www.camping-indigo.com/fr/camping-indigo-lyon-rhone.html)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112820)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.763131,45.819483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Municipal</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW69I8XjrUFAMhbrW4WD-IqV__2t5EbOFZF7W_FfurFakp32MeqadFWfuNFvqPXpzgWJcx9zgZxciH4IrzWtfXF4VEmnBchtHLnAVAOtyDTIyKwlrUVnDJJ9aLp-M_Q845gQJNH-PXzb1GiLFdkevP0IyVJvqS02sWMcVVcUsMpyBnkCOM8" height="200" width="auto" /><br><br>Camping Municipal<br>Situé CD 130, Pont-authou, 27290<br>France<br>+33 2 32 42 75 06<br><br>RV friendly<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW7HjajM3kqca4rwdxdLrbYyKusFfViZ_M5FFrqyIB3ILBhPcDEazWxOtS7lsxisp1QBC6URJKdyu9GPSH5XZoHAWjhnfqMNR0oa3TAy5sUjky1M8AGUnHe0ADwWBst2N7M6TwPOmbt4KvgJmI7RXD3qMad1fHdyHB9ehK26T_NZ3r192dB_1V929UEEH3415rxE1IXfMrqlKSfTctnLVESb6IIGh7QloLus3lpcegrsWEq4q6cTFix0fIKrnCibxk9xN12y6H9oYQ2K_q0x0i3NXP8C7PSc7Gtl8iRmmJDSOnWXY53XPbznB34" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW69I8XjrUFAMhbrW4WD-IqV__2t5EbOFZF7W_FfurFakp32MeqadFWfuNFvqPXpzgWJcx9zgZxciH4IrzWtfXF4VEmnBchtHLnAVAOtyDTIyKwlrUVnDJJ9aLp-M_Q845gQJNH-PXzb1GiLFdkevP0IyVJvqS02sWMcVVcUsMpyBnkCOM8 https://lh3.googleusercontent.com/umsh/AK26PW7HjajM3kqca4rwdxdLrbYyKusFfViZ_M5FFrqyIB3ILBhPcDEazWxOtS7lsxisp1QBC6URJKdyu9GPSH5XZoHAWjhnfqMNR0oa3TAy5sUjky1M8AGUnHe0ADwWBst2N7M6TwPOmbt4KvgJmI7RXD3qMad1fHdyHB9ehK26T_NZ3r192dB_1V929UEEH3415rxE1IXfMrqlKSfTctnLVESb6IIGh7QloLus3lpcegrsWEq4q6cTFix0fIKrnCibxk9xN12y6H9oYQ2K_q0x0i3NXP8C7PSc7Gtl8iRmmJDSOnWXY53XPbznB34</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.699968,49.243319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Grande Vigne</name>
+        <description><![CDATA[La Grande Vigne<br>11 Rue du Paradis<br>79120 Messé, France<br>+33 5 49 29 39 93<br>grande-vigne.com (http://www.grande-vigne.com/)<br><br>RV friendly but not suitable for large rigs call to check]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            0.088378,46.256342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Camping Municipal Le Vallon de l'Ehn]]></name>
+        <description><![CDATA[Camping Municipal Le Vallon de l'Ehn<br>1 Rue de Berlin<br>67210 Obernai, France<br>+33 3 88 95 38 48<br>WEB (http://translate.google.co.uk/translate?hl=en&sl=fr&u=http://www.tourisme-obernai.fr/Fr/Loger/Camping-municipal-Obernai.html&prev=/search%3Fq%3Dobernai.fr/fr/Le-Camping-mu...%26client%3Dfirefox-a%26hs%3DGGJ%26rls%3Dorg.mozilla:en-US:official%26channel%3Drcs)<br><br>RV friendly]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.468071,48.464735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Camping de l'Arquebuse]]></name>
+        <description><![CDATA[Camping de l'Arquebuse<br>Route D Athee<br>21130 Auxonne, France<br>+33 3 80 31 13 61<br>campingarquebuse.com (http://www.campingarquebuse.com/?lang=en)<br><br>RV friendly...a nice friendly site]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.382474,47.199065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yelloh Village Sylamar- Labene Ocean, 25/27 May 2013</name>
+        <description><![CDATA[The site is situated at N 43.35.50 W 1.27.20 and is ACSI number 1369. This site can be recommended for large RV's as our pitch left us oceans of room. Expensive WIFI.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.458424,43.597619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping La Yole</name>
+        <description><![CDATA[Camping La Yole<br>Chemin des Bosses<br>85160 Saint-Jean-de-Monts, France<br>+33 2 51 58 67 17<br>vendee-camping.eu (http://www.vendee-camping.eu/en/home)<br><br>RV friendly<br> loads for kids and adults, large fully serviced pitches big pitch, 3 connections]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -2.007751,46.757269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Littoral</name>
+        <description><![CDATA[Le Littoral<br>Le Porteau<br>85440 Talmont-Saint-Hilaire, France<br>+33 2 51 22 04 64<br>campinglelittoral.fr (http://www.campinglelittoral.com/index.php)<br><br>RV friendly<br>great site, fully serviced pitches]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.701894,46.451327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Capeyrou</name>
+        <description><![CDATA[Le Capeyrou<br>24220 Beynac-et-Cazenac<br>France<br>+33 5 53 29 54 95<br>campinglecapeyrou.com (http://campinglecapeyrou.com/index.html?lg=gb)<br><br>RV friendly]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            1.148419,44.83764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Fontaine des Clercs</name>
+        <description><![CDATA[La Fontaine des Clercs<br>1 rue de L'église<br>62170 Montreuil, France<br>+33 3 21 06 07 28<br>campinglafontainedesclercs.fr (http://campinglafontainedesclercs.fr/)<br><br>RV friendly<br>a lovely little site]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            1.762673,50.468544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Domaine Le Bohat</name>
+        <description><![CDATA[Camping Domaine Le Bohat<br>Route d'Arzon<br>56370 Sarzeau, France<br>+33 2 97 41 78 68<br>lodgeclub.fr (http://www.lodgeclub.fr/campsite-france-britain.html)<br><br>RV / 5th wheel friendly]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -2.79748,47.522389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montherme Aries</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7WtFe7v-nrp2-3_O42YfIOVCCH5o65BBmWg3ZDl-Z9JivGL7JpAk31TWs6YVu1dsQbTr9ZPkNu5bcuA3aOUJsz-m8doqG70Ohpm4rrxKhPg8c9dLuEnSHs34nKV6-v-wKXj5Dvs5JlmNcKZk9MGTXJSyATx1QIeA4g_XGJgd4e_29VkF2eXsykRMjzf1HA__z33oj5xPvHsLon" height="200" width="auto" /><br><br>http://www.campercontact.com/campersite/detail/id/5541<br><br>OK for RV's<br><br>no facilities here but there is a MH service point on the road into the village on the left.<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW7JGuDIndq1xw_4uQfHXhO_xF_zfOFcJhClP7GB0cwfaJjmuZ6gavpeNirSqkYv2XVbnkXFSaQAHJDp8zmgxiPOz1PWmy8k4yH2PJX4YQhRZOSxd2jRL2Uor4DIQhR0aefjRuFq8CQKpMMWDSq11kV2bIUH4wtb44TlOtTHwqHHLtMEwxECmC1EPwZPj6cNUW9rO-cHNXw9MN5q7dpBMep3j9LefDqECjgmD0SgVs8UEUWn8wBYqE1Zd_ik2fvn6LU7lB-S8JNRuwhmctDQTRA0H2LePPh6oJj_UxYCof2fq5_nnyKsz4m8dym1HLT6N-KoaKuYcKlwWCng03PrclqLOeikf2T85w" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7WtFe7v-nrp2-3_O42YfIOVCCH5o65BBmWg3ZDl-Z9JivGL7JpAk31TWs6YVu1dsQbTr9ZPkNu5bcuA3aOUJsz-m8doqG70Ohpm4rrxKhPg8c9dLuEnSHs34nKV6-v-wKXj5Dvs5JlmNcKZk9MGTXJSyATx1QIeA4g_XGJgd4e_29VkF2eXsykRMjzf1HA__z33oj5xPvHsLon https://lh3.googleusercontent.com/umsh/AK26PW7JGuDIndq1xw_4uQfHXhO_xF_zfOFcJhClP7GB0cwfaJjmuZ6gavpeNirSqkYv2XVbnkXFSaQAHJDp8zmgxiPOz1PWmy8k4yH2PJX4YQhRZOSxd2jRL2Uor4DIQhR0aefjRuFq8CQKpMMWDSq11kV2bIUH4wtb44TlOtTHwqHHLtMEwxECmC1EPwZPj6cNUW9rO-cHNXw9MN5q7dpBMep3j9LefDqECjgmD0SgVs8UEUWn8wBYqE1Zd_ik2fvn6LU7lB-S8JNRuwhmctDQTRA0H2LePPh6oJj_UxYCof2fq5_nnyKsz4m8dym1HLT6N-KoaKuYcKlwWCng03PrclqLOeikf2T85w</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.736196,49.886077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LA MAILLERAYE-SUR-SEINE</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7GDQpfGpW06Sy2KNIvMdPtWq-NqAfxJZARHeYyN4TcIyNBUhvxFEsKodF7l6rOi56XVH606ZAf01w5q7LLDALwvpKT_VA3uLyAaW0ppO73wVB1COaWgiG3KWiH3az5eMnr0-EB26qnmWkO4Gms3WJZiXdQC9MpWipOCYQs0dVb42mtiZGRDg" height="200" width="auto" /><br><br>Aires<br><br>Address and contact<br>En bord de Seine, quai Paul Girardeau<br>76940 LA MAILLERAYE-SUR-SEINE<br><br>Tel : 02 35 37 12 04<br>Nice aire.. spent many a happy day there just watching the boats go by.. <br><br>It is a great aire, has been much improved since we were here last. Now costs 5 euros, but it is close to the cake shop<br><br>Lovely, just lovely, it's had a makeover, and the entrance could be tight for bigger units, as the is a sharpish hairpin to get in, once in the views are stunning over the river. Get there early it fills up quick, or get there about 6 as plenty of the french leave to avoid paying the 5€. Beware that on the left as you drive in about 3/4 of the way in there's a highish wall behind that there's a sewage pumping station, it was obvious but fortunately no smells. Definitely worth a visit, and the cafe bar staff were friendly too, there's two establishments at the entrance.<br><br>RV friendly<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4mkDj7a7ferfhRh-lZkimhZP11I_EG8li9J9iaoLDE_Egx2EKmCZ8fWhL1C6a8Vnj9RQC4VGu8MWmtE7CcJDrcoURG_y4fdNOyppj3vZxdNDdSmxJecPIOgosCp7YAcnmw1CEC03bNVAhI_EES7CcF7uFgqnzpqvPioBkFj6XsVCRkRszIv0QkHZ5_7Spf-x1X9ZK9Pgo93MD-HaSAVfC3LHm7jJOAhGF3fsONGMW8khkXaQD0fj2F30Fmg-SNtpTJECGKpHyunUk2D6-Mon8bHMF0xeTm76l8DV25GbTWVKXNsYVCVsJkXksC6g" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7GDQpfGpW06Sy2KNIvMdPtWq-NqAfxJZARHeYyN4TcIyNBUhvxFEsKodF7l6rOi56XVH606ZAf01w5q7LLDALwvpKT_VA3uLyAaW0ppO73wVB1COaWgiG3KWiH3az5eMnr0-EB26qnmWkO4Gms3WJZiXdQC9MpWipOCYQs0dVb42mtiZGRDg https://lh3.googleusercontent.com/umsh/AK26PW4mkDj7a7ferfhRh-lZkimhZP11I_EG8li9J9iaoLDE_Egx2EKmCZ8fWhL1C6a8Vnj9RQC4VGu8MWmtE7CcJDrcoURG_y4fdNOyppj3vZxdNDdSmxJecPIOgosCp7YAcnmw1CEC03bNVAhI_EES7CcF7uFgqnzpqvPioBkFj6XsVCRkRszIv0QkHZ5_7Spf-x1X9ZK9Pgo93MD-HaSAVfC3LHm7jJOAhGF3fsONGMW8khkXaQD0fj2F30Fmg-SNtpTJECGKpHyunUk2D6-Mon8bHMF0xeTm76l8DV25GbTWVKXNsYVCVsJkXksC6g</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.773394,49.484273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping les granges***</name>
+        <description><![CDATA[Camping les granges***<br>Avenue de l'Europe<br>37230 Luynes, France<br>+33 2 47 55 79 05<br>campinglesgranges.fr (http://www.campinglesgranges.fr/campsite-indre-et-loire-welcome.html)<br>ACSI – only until 01/07/ Not CC or C&CC<br>5nights – 104e<br>10 Amp<br>No English spoken<br><br>Fifth wheel friendly<br>Most pitches not quite deep enough to park ‘back in’. Couple could – one near road at entrance – one right outside shower block. Not really a problem as pitches were wide enough to park parallel to site roads. Some ‘motorhome’ pitches were deep enough but slightly restrictive due to tree position.<br>Bar/snacks/swimming pool.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            0.559667,47.381482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Camping Le Both d'Orouet]]></name>
+        <description><![CDATA[Camping Le Both d'Orouet<br>77 Avenue Orouet<br>85160 Saint-Jean-de-Monts, France<br>+33 2 51 58 60 37<br>camping-lebothdorouet.com (http://www.camping-lebothdorouet.com/)<br><br>fifth wheel friendly<br>Not ASCI       -      Not CC or C&CC<br>103.04e for 7 nights<br>No English spoken (well very little)<br>Some larger pitches suitable for 5th wheelers (round to the right at end of reception). We were on pitch 208 (11m deep x 8m wide).  Other suitable was 199, possibly some others.<br>Very quiet at this time.  Site is larger than first envisaged. Facilities for kids.  Pool is just a pool with no tubes/flumes, but nice condition and with a Jacuzzi.<br>Plenty of taps for pitches.  May need a longer lead for electric.  Some UK style sockets / some French.<br>6Amp? (we were told).]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.997415,46.763793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Chateau de Martragny</name>
+        <description><![CDATA[Camping Chateau de Martragny<br>52 Voie communale Hameau de Saint-Léger<br>14740 Martragny, France<br>+33 2 31 80 21 40<br>chateau-martragny.com (http://www.chateau-martragny.com/index.htm?lang=en)<br><br>Fifth wheel friendly<br>Friendly, Quiet, English spoken. Many Brits, Dutch as well as French.<br>Great site – Loved this site - Good facilities and many of them (not necessarily for kids)<br>Bar / restaurant (expensive, as you will expect) / fresh croissant & bread baked on premises.<br>ACSI / CC / C & CC<br>Good pitches for any size 5vers<br>15amp electric<br>We camped to the left of Chateau as looked at on entry (pitch 102)<br><br>Pitch was on the 'wall' side rather than the 'tree' side.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.60598,49.242996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping de la Forêt</name>
+        <description><![CDATA[Camping de la Forêt<br>2 Rue Mainberte<br>76480 Jumièges, France<br>+33 2 35 37 93 43<br>campinglaforet.com (http://en.campinglaforet.com/)<br><br>fifth wheel friendly<br>Friendly, Quiet, English spoken. Many Brits, Dutch as well as French.<br>Care needed in navigation to site.  Some routes will take through small villages with traffic calming measures (CC route does this). Best may be N27/A151(toll)/A150/D982(Duclair)/D143(Jumieges).<br>Not suitable for larger 5vers. Most pitches below are at least 9metre deep.<br>A lot of pitches had taps as well as electric.<br>Access to some pitches only. These below can be reached (walk route first to see best direction).<br>Possible pitches:<br>–	48 (water tower in middle at front makes it tight)(but I managed)<br>–	35 big (on a corner)<br>–	60 /	63 /	64<br>–	70 (long lead needed for electric)<br>–	15 /	A22 /	A23]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            0.827865,49.434689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Domaine de la Brèche</name>
+        <description><![CDATA[Domaine de la Brèche<br>5 Impasse de la Brèche<br>49730 Varennes-sur-Loire, France<br>+33 2 41 51 22 92<br>domainedelabreche.com (http://www.domainedelabreche.com/web/?lang=en)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112703)<br><br>Fifth wheel/RV friendly<br><br>Friendly, Quiet, English spoken. Many Brits, Dutch as well as French.<br>Great site – Loved this site - Good facilities and many of them (not necessarily for kids)<br>Bar / restaurant (expensive, as you will expect) / fresh croissant & bread <br><br>Good pitches for any size 5vers<br>15amp electric<br><br>Just have a look at the road in on google streetview, tightish corner at the cross roads but I was fine in 28ft 5th wheel,]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.001223,47.247244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Atlantique Parc</name>
+        <description><![CDATA[Camping Atlantique Parc<br>26 Avenue Mathes<br>17570 la Palmyre, France<br>+33 5 46 02 17 17<br>camping-atlantique-parc.com (http://camping-atlantique-parc.com/campsite-atlantic-park/index.php)<br><br>RV friendly<br> huge pitch, 3 connections]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.167597,45.701226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Camping Lou P'tit Poun]]></name>
+        <description><![CDATA[Camping Lou P'tit Poun<br>110 Avenue du Quartier Neuf<br>40390 Saint-Martin-de-Seignanx, France<br>+33 5 59 56 53 71<br>louptitpoun.com (http://www.louptitpoun.com/campsite-aquitaine.html)<br><br>5th wheel friendly<br>Stayed here last year in my rambler - good size pitches with drainage/water.<br>The pool area is nice and a was a fairly quiet site.<br>The seemed to be a lot of ants/insects about but didn't really get bit much, the ants seemed to be everywhere though.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.411929,43.524224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Le Pavillon Royal</name>
+        <description><![CDATA[Camping Le Pavillon Royal<br>Avenue du Prince de Galles<br>64210 Bidart, France<br>+33 5 59 23 00 54<br>pavillon-royal.com (http://www.pavillon-royal.com/accueil/0/en.html)<br><br>5th wheel friendly<br>A Castels site, expensive (£75/night faily of 4)<br>Great location and a really nice beach which you can walk to Biarritz or Bidart.<br>A good bar area and the food was good.<br>The pitches were tight and I had to pull forward on to the opposite pitch the get where I wanted.  I also had to get a car moved to get off.  Most people park their cars in front of the vans and makes the access road narrow on most of the pitches.<br>Great views though and will probably go back next year.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.579485,43.454944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Nautique</name>
+        <description><![CDATA[La Nautique<br>Chemin de la Nautique<br>11100 Narbonne, France<br>+33 4 68 90 48 19<br>campinglanautique.com (http://www.campinglanautique.com/?lang=en)<br><br>5th wheel friendly<br>Very long pitches each with their own toilet/shower.<br>Easy access with a fifth wheeler.<br>Each pitch has water/drainage altough I couldn't find the drainage on my pitch which seemed to be a small pipe uphill on the toilet block alotugh some had draniage at the sie of the pitch.<br>good location with Narbonne nearby and a few nice places to visit.<br><br>This site was very windy and got bitten on the last couple of nights which was annoying as we took creams/candles etc.<br>Pool/bar area was OK but pool wasn't very relaxing as lots of kids jumping about.<br><br>I will not be returning here beacuse of the wind and bites and the pool area wasn't great.  About £55/night for family of 4.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.004243,43.146652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Camping L'Ardechois *****]]></name>
+        <description><![CDATA[Camping L'Ardechois *****<br>Route des Gorges<br>07150 Vallon-Pont-d'Arc, France<br>+33 4 75 88 06 63<br>ardechois-camping.com (http://www.ardechois-camping.com/en/)<br><br>5th wheel friendly<br>A great site with a great location.  Access good with a fifth wheel but some of the pitches can be a bit tight.<br>Access to canoeing on the Ardeche river and a nice walk in to Vallon.<br>One of our favourite places, had a couple of great meals in vallon (Le Chelsea was great) and the food on site wasn't bad.  Nice bar area by the swimming pool.<br>There is entertainment for the kids at night alotugh it was a bit cheesy.<br>Also nice bike rides from here on road bikes.  Shower blocks imaculate.<br><br>We will be returning in a couple of years.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.398846,44.398117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saumur Aire de Camping</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7SnacPINtwx8uo7GDE-FvQ2VFKAOanwScTSlM3SzeH3UaGpFvb9ZRNZcSD3HuG31Hwr-aDtz79avAkiPfNUU6_T08Kl23m-_6hK1h7la5n3Yb1fCLvkxCB4kM9XiKvop9qDVcDeqFHzd256geFtXQl1yupIkWhSWImlePvWqR_SeCG3Akl7Z-gyBI_1v9-aoyblS4" height="200" width="auto" /><br><br>it`s a lovely BIG official aire,,,, shaded or open ground or both,,, not marked out you just plonk yourself where you want..<br><br>Although you cant see it very well from the M.H. because of the tree`s the Loir River is beside the site... and there is a cycle walkway running alongside the camp/Aire and river..<br><br>Supposed to be a huge Chateu near,,,, not found that yet...<br><br>A guy comes round at 6pm to collect your 5 euros.... Dump, Water, Grey/Black..<br><br>And a bonus it will take as big a rig with trailer that you want... and the service point is easy in/out right at the entrance...<br><br>As far as I can tell it`s not in the aires book...<br><br>Very quite, well away from the road.... and dead opposite the entrance is a large restaurant..<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW72IAVdyflUHJwqcZwW-16FVsmY0kIV2BJKVyXt5ndRbSEeXFq14mXFJL7YLMv6Cxm_UagyEIH4OQQKmaUEcQMUfCAqYP997TzX0SG5lHW_QJkApzwos-BhYpqHUythyzBUYF3X-_YWm84CsePjXHvsCCZgsOWeeFX880z8fzZh--44_nM3iJ-Zm6aTXKBWNwQjQag" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW76xmT_YhObS3KuE3JM0oFLp0ytxLi-cxzvm4O3xj9qBYjqiYoKreygv5TLLsNtdxyvFXm8b38hKeiW_RTGEgn3P-br7PBji-pw8r39nvblYh68Pl3XZF5OAEJn1cUJlig78hdIw20AiDp8Cw5DDeXAjPX4KLArcBWtPJDVHieB08N__Y4AXMQnhwpCtUXZA2JJu1wB" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW5y0dJ0_aZFHEoWlAHjXhqlCtpp0PlAk2DwRwPkov73XJST2aMYtOod4o2OMmtgmVfr2u7ZmFcZUyhj989HZ-QtedYpztmc528pPLVGuc_j1jkr9_GHd2bnM8lqqQMfqqAXiCD09GSLFJu1VqFv3LRQPbOah69zO8laFIo4brcnz37E-W1ymRshBH0Vm5NnRTZOEez5gDeQU1VOvycsw8iJvPiATmeGbrT0dMhWZ_MWRX3NBJLOPLkUgwIGLfIqXOHA_aU3mvlkM_5u3Zj_I1Nr_W_SDfurY78pFnTcO5Grdwv2pu2K4dDvpIadQjVEO8DArIuEykLpVnjC0-AgFw" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW5aqmoR5jgazfRdtdKnKmGXv7tFLdExvhHs4BpHlo6FLkMExwT2T_tngzpL37I1GAUIc8xEdZDm27UjmtMoRZBqIc7JY-4AWSNvoF3TRdSDO3DbUoo2iqCBh3ou9On1fYOg2-jnPLkLahQ6VYNfolv0Pv5LllCLP8JQHQ4PJViqnLAY9Q4eSiEmu1ATaccFA5Sd_gil6fMYh8_OlOG3ET6WXW81fC2MGFuM1GjbDGnc4d7gnXWWKul1jiHHQlJYwreFU58ETx-NQU0Duho6u11XzkSwQyOWNNiEfWpcQnv_Zvdw6PvMWrHwXXMNnekPzw5Y8_WHnCBty0z1Qk7m3Q" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4CohA04IYcPy9DkFT56fv-GZN6twelZWF_Ems7yz809lSkFlTgMICtzo7nntsnxwk9sNhWQexMnrtwbWxjoFOLfEWZLeE0jm31yHP7q_NA3jiy7FBtE5m4TEWf3KoEyhGY9kaHk0bRW0HQxosNMTKEpsoNDliiAMnMKBLR-vhBTZ-wivzhrYQ24Xx6LU2l_v8wtI7ctocZ6S-ZkHB_J798fZmLln8xpqVDE8T6R0vbLdDr8-md0F0VtnAH9gCu1zzMnJFl2l2DdWw7HEcB5-NMMdYxAGFfg3_xn58NbcJqlOyY3ORNr_JkTd4L34wqi84oGauFiK-7UPpj6S1EmZ8" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7SnacPINtwx8uo7GDE-FvQ2VFKAOanwScTSlM3SzeH3UaGpFvb9ZRNZcSD3HuG31Hwr-aDtz79avAkiPfNUU6_T08Kl23m-_6hK1h7la5n3Yb1fCLvkxCB4kM9XiKvop9qDVcDeqFHzd256geFtXQl1yupIkWhSWImlePvWqR_SeCG3Akl7Z-gyBI_1v9-aoyblS4 https://lh3.googleusercontent.com/umsh/AK26PW72IAVdyflUHJwqcZwW-16FVsmY0kIV2BJKVyXt5ndRbSEeXFq14mXFJL7YLMv6Cxm_UagyEIH4OQQKmaUEcQMUfCAqYP997TzX0SG5lHW_QJkApzwos-BhYpqHUythyzBUYF3X-_YWm84CsePjXHvsCCZgsOWeeFX880z8fzZh--44_nM3iJ-Zm6aTXKBWNwQjQag https://lh3.googleusercontent.com/umsh/AK26PW76xmT_YhObS3KuE3JM0oFLp0ytxLi-cxzvm4O3xj9qBYjqiYoKreygv5TLLsNtdxyvFXm8b38hKeiW_RTGEgn3P-br7PBji-pw8r39nvblYh68Pl3XZF5OAEJn1cUJlig78hdIw20AiDp8Cw5DDeXAjPX4KLArcBWtPJDVHieB08N__Y4AXMQnhwpCtUXZA2JJu1wB https://lh3.googleusercontent.com/umsh/AK26PW5y0dJ0_aZFHEoWlAHjXhqlCtpp0PlAk2DwRwPkov73XJST2aMYtOod4o2OMmtgmVfr2u7ZmFcZUyhj989HZ-QtedYpztmc528pPLVGuc_j1jkr9_GHd2bnM8lqqQMfqqAXiCD09GSLFJu1VqFv3LRQPbOah69zO8laFIo4brcnz37E-W1ymRshBH0Vm5NnRTZOEez5gDeQU1VOvycsw8iJvPiATmeGbrT0dMhWZ_MWRX3NBJLOPLkUgwIGLfIqXOHA_aU3mvlkM_5u3Zj_I1Nr_W_SDfurY78pFnTcO5Grdwv2pu2K4dDvpIadQjVEO8DArIuEykLpVnjC0-AgFw https://lh3.googleusercontent.com/umsh/AK26PW5aqmoR5jgazfRdtdKnKmGXv7tFLdExvhHs4BpHlo6FLkMExwT2T_tngzpL37I1GAUIc8xEdZDm27UjmtMoRZBqIc7JY-4AWSNvoF3TRdSDO3DbUoo2iqCBh3ou9On1fYOg2-jnPLkLahQ6VYNfolv0Pv5LllCLP8JQHQ4PJViqnLAY9Q4eSiEmu1ATaccFA5Sd_gil6fMYh8_OlOG3ET6WXW81fC2MGFuM1GjbDGnc4d7gnXWWKul1jiHHQlJYwreFU58ETx-NQU0Duho6u11XzkSwQyOWNNiEfWpcQnv_Zvdw6PvMWrHwXXMNnekPzw5Y8_WHnCBty0z1Qk7m3Q https://lh3.googleusercontent.com/umsh/AK26PW4CohA04IYcPy9DkFT56fv-GZN6twelZWF_Ems7yz809lSkFlTgMICtzo7nntsnxwk9sNhWQexMnrtwbWxjoFOLfEWZLeE0jm31yHP7q_NA3jiy7FBtE5m4TEWf3KoEyhGY9kaHk0bRW0HQxosNMTKEpsoNDliiAMnMKBLR-vhBTZ-wivzhrYQ24Xx6LU2l_v8wtI7ctocZ6S-ZkHB_J798fZmLln8xpqVDE8T6R0vbLdDr8-md0F0VtnAH9gCu1zzMnJFl2l2DdWw7HEcB5-NMMdYxAGFfg3_xn58NbcJqlOyY3ORNr_JkTd4L34wqi84oGauFiK-7UPpj6S1EmZ8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.022681,47.240783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Le Rejallant</name>
+        <description><![CDATA[5th wheel friendly ...........close to the charente river 5km from N10 , this siteis 50km south of poitiers. 1.5 miles to le clerc [plus sells lpg] and lidols in Ruffec.<br>again several pitches we could get on some more sheltered than others, free wifi all over site nice little site. big dump on way out. N46.0'54" E 0.12'46" would stophere again.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            0.21492,46.014369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baie de Somme Aires</name>
+        <description><![CDATA[It's a large motorway services with a overnight parking for caravans & motorhomes in the grounds . We used to pull in there with our 38' & park on the side of the road at the bottom, but if you are 9m you will get in to the proper area no problem]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            1.754551,50.169917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aire de Service de Brou-Frazé</name>
+        <description>Brou-Fraze was very good with shop, restaurant, shower available, toilets (average cleanliness), fuel and plenty of well-lit parking space. It was quiet also.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            1.083661,48.241147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aire de Service de Bedenac Ouest</name>
+        <description>Bedenac Ouest was very noisy. Lesson learnt: when parking amongst lorries. Stay well away from refrigerated ones. There were four in close proximity and the compressors cut in one after another all night. They were so loud that even the lorry drivers were arguing and shouting at each other. Otherwise it was average. Fuel, lighting shop (not 24 hours), vending machines and one set of toilets for men and women. It was generally tatty and tired but adequate.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.334227,45.172531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aire de Service le Crotoy</name>
+        <description>RV friendly</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            1.633648,50.218164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aires at St christoly de Blaye</name>
+        <description>https://www.aire-service-camping-car-panoramique.fr/gironde/33-saint-christoly-de-blaye</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.510895,45.129525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aries at Turquant</name>
+        <description>https://www.aire-service-camping-car-panoramique.fr/maine-et-loire/49-turquant</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            0.029,47.223966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>amneville aires</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4hozpLnajbjJARCiFQE2QS3keU6EoZjFA8DIeDyKU7u0nUZUE3DMew1J5Y3fNg0t6V4lGnpyPBAs8usKgq3-C7U70O62zYEHSxsS2PE3pBpBC2TSoWEfT-LB-GhGjhojyWA669gIMPfrWYz0liCqvLKWLt9ma37do3IIGGUaKBPjAB" height="200" width="auto" /><br><br>Rv friendly.......... next to a large car parking area which has a couple of Cinema’s,30/40 types of burger bars/restaurants ect, piscine with slides,A Health Spa, Aquarium, Snow dome, Casino, Golf and a Zoo. This aire is on solid ground in among trees, plenty of space but limited if you want some sunlight to keep the solar working if you stay a while, which we will possibly stay a few nights as plenty in area to explore.<br><br>The co-ordinates from CamperContact will try and take you nearer the Snow dome parking but as we saw many motor homes at this place we stopped.. It is an entrance with a barrier which was open so unsure why it’s there as yet, Next to it is a hexagon red building which is the Tourist Info. Very helpful staff but no cycle routes here, so they said..Town of Amneville is about 3 klm away.<br>This Aire is suitable to visit (Transport needed, But possible public bus from here) Metz,Thionville,Briey,Rombas and many more in this area, as well as which we must go to is..Woippy where we are now.<br><br>The dump/water ect is near the entrance but blocks have been placed on one of the roads so it’s a drive right round and back again. Floor Grey Dump, Cassette Black point on pay machine for water. Easy access but mind whats around you when manoeuvring.<br><br>Again a Trailer would be a bit of a pain but could be possible. http://www.i-campingcar.fr/aires.php?ville=AMNEVILLE<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW6Jb69Em6HPwY4MpB9JMal6JFnLBK9n5Ni0Y-mzb6hw3uVII-ouEMecZ6YdyyKkEL7wcjZVUlXcT2gXyhvJ0DPEFMcdZmUEJywKmnj_7QixsOkuoLzQmrIjk0EXANOpxHVp_H3k9CMTAlYll0A0eQQ" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW7BEttWUrmw9rQjWZIa_Y7VYUXLHWcPWIQfvz6T1Fx6b2WFVrO0TieS2Z53R9eQMNdBS3-bIQEdVzP2afXTm8tT0dNgPFpZ5_Vd03b7bksCfb6xAych4mtmNwlXazfADGOEDwaZWFRlYPnXdvOItgiOb7zqSX1ZP_pMRi4uxzcd-fGuAEfgq13daVJPlHDMpOmOLskNUuR2lZpLsOAui9-pQkUp4UAsxZlcddTCNcDC4us7zFOsjqv27m6WMjVnncz_a12jNTVW87nhVeRsG4hhgXh6d1oWVI4OigRbX8acV6-VuAAd19E" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW6t90lwfkxd3sM8MBT4iHIrZmsmyN_nUO8PsdNt5nN1_RfVcMb5rW2gNdWSNxrTE0c2eFPgS-jNmlOSs0ddyGi28V1SgPpn-6UwbDsRbybHrTwMw6IRK4cP4Nv0k0fX07UpksZQbhwnmyYIUtpxGbUkQdo0ldM1lSzG5k2_qIvpuGZ2MHoMY7kTtAbXv0du2Uuuz1lvwXU9reypPNJtolm5qLLofbxej2Jqp8a-pZqhOVtXLtaQ7dCpriD1t2ITVQRSx71i5rovzeqa5bT0xQ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4hozpLnajbjJARCiFQE2QS3keU6EoZjFA8DIeDyKU7u0nUZUE3DMew1J5Y3fNg0t6V4lGnpyPBAs8usKgq3-C7U70O62zYEHSxsS2PE3pBpBC2TSoWEfT-LB-GhGjhojyWA669gIMPfrWYz0liCqvLKWLt9ma37do3IIGGUaKBPjAB https://lh3.googleusercontent.com/umsh/AK26PW6Jb69Em6HPwY4MpB9JMal6JFnLBK9n5Ni0Y-mzb6hw3uVII-ouEMecZ6YdyyKkEL7wcjZVUlXcT2gXyhvJ0DPEFMcdZmUEJywKmnj_7QixsOkuoLzQmrIjk0EXANOpxHVp_H3k9CMTAlYll0A0eQQ https://lh3.googleusercontent.com/umsh/AK26PW7BEttWUrmw9rQjWZIa_Y7VYUXLHWcPWIQfvz6T1Fx6b2WFVrO0TieS2Z53R9eQMNdBS3-bIQEdVzP2afXTm8tT0dNgPFpZ5_Vd03b7bksCfb6xAych4mtmNwlXazfADGOEDwaZWFRlYPnXdvOItgiOb7zqSX1ZP_pMRi4uxzcd-fGuAEfgq13daVJPlHDMpOmOLskNUuR2lZpLsOAui9-pQkUp4UAsxZlcddTCNcDC4us7zFOsjqv27m6WMjVnncz_a12jNTVW87nhVeRsG4hhgXh6d1oWVI4OigRbX8acV6-VuAAd19E https://lh3.googleusercontent.com/umsh/AK26PW6t90lwfkxd3sM8MBT4iHIrZmsmyN_nUO8PsdNt5nN1_RfVcMb5rW2gNdWSNxrTE0c2eFPgS-jNmlOSs0ddyGi28V1SgPpn-6UwbDsRbybHrTwMw6IRK4cP4Nv0k0fX07UpksZQbhwnmyYIUtpxGbUkQdo0ldM1lSzG5k2_qIvpuGZ2MHoMY7kTtAbXv0du2Uuuz1lvwXU9reypPNJtolm5qLLofbxej2Jqp8a-pZqhOVtXLtaQ7dCpriD1t2ITVQRSx71i5rovzeqa5bT0xQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.138058,49.247801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping de la Bastide</name>
+        <description>RV friendly....</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            0.224742,44.844178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Copy of Monster Moovers - RV friendly Sites in Portugal</name>
+    <description><![CDATA[www.monstermoovers.com<br>RV and 5th wheel friendly sites in Portugal<br>Please let us know any incorrect information or new sites, so we can add them to this guide.<br><br>A copy in case the original goes]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Use the map or search box to find RV friendly sites in Portugal</name>
+      <Placemark>
+        <name>Albufeira Camping</name>
+        <description><![CDATA[Albufeira Camping<br>Portugal<br><br>campingalbufeira.net (http://campingalbufeira.net/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112604)<br><br>RV friendly<br>compared to the others on the Algarve we found this to be the most suitable for our needs]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -8.252063,37.105429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lisboa Camping</name>
+        <description><![CDATA[Lisboa Camping<br>Estrada da Circunvalação<br>1400-061 Lisbon, Portugal<br>+351 21 762 8200<br>lisboacamping.com (http://www.lisboacamping.com/index-uk.html)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112636)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -9.208136,38.725614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quinta das Cegonhas Parque Rural</name>
+        <description>Apparently this is a lovely site but NOT suitable for large RVs and 5th wheels. We have left it here in case somebody looks it up from the original guide</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -7.541991,40.520177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Orbitur Mira</name>
+        <description><![CDATA[Orbitur Mira<br>E. Florestal 1-km 2-Dunas de Mira<br>3070-792 Praia de Mira, Portugal<br>+351 231 471 234<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112649)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -8.79889,40.444661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Alvor</name>
+        <description><![CDATA[Camping Alvor<br>Rua Serpa Pinto<br>8500-053 Alvor - Portimão, Portugal<br>+351 282 459 178<br>campingalvor.com (http://campingalvor.com/index.php/pt/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112696)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -8.589731,37.135016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zmar Eco Camping Resort</name>
+        <description><![CDATA[Heralde A De Mateus      <br>      Sane Salvador<br>Portugal<br>Tel: +351 707 200 626<br>http://www.zmar.eu/en/<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112712)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -8.730025,37.60342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Asseiceira</name>
+        <description><![CDATA[Camping Asseiceira<br>Asseiceira, 7330-204 Santo António Das Areias<br>Portugal<br>+351 245 992 940<br>campingasseiceira.com (http://www.campingasseiceira.com/en/newindex.htm)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112717)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -7.34082,39.409962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yelloh Village Camping Turiscampo</name>
+        <description><![CDATA[Yelloh Village Camping Turiscampo<br>Estr. EN125<br>8600 Lagos, Portugal<br>+351 282 789 265<br>yellohvillage.co.uk/camping... (http://www.turiscampo.com/en/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112727)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -8.732361,37.101185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alenquer Camping</name>
+        <description><![CDATA[Alenquer Camping<br>Portugal<br>http://www.dosdin.pt/uk/camping/<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112748)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -9.02706,39.059916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Évora</name>
+        <description><![CDATA[http://www.orbitur.com/<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112752)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -7.926271,38.557747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parque De Campismo E Caravanismo Do Sindicato Dos Bancários Do Sul E Ilhas</name>
+        <description><![CDATA[Parque De Campismo E Caravanismo Do Sindicato Dos Bancários Do Sul E Ilhas<br>Urbanização Pinheiros Marim<br>8700 Olhão, Portugal<br>+351 289 700 300<br>sbsi.pt (http://www.sbsi.pt/Pages/default.aspx)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112760)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -7.821913,37.038157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Quarteira</name>
+        <description><![CDATA[Camping Quarteira<br>Portugal<br><br>orbitur.pt/camping-orbitur (http://www.orbitur.pt/camping-orbitur-quarteira)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112776)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -8.084038,37.06641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Camping & Bungalows Orbitur Sagres]]></name>
+        <description><![CDATA[Camping & Bungalows Orbitur Sagres<br>Cerro das Moitas<br>8650-998 Vila de Sagres , Faro, Portugal<br>+351 282 624 371<br>campings.com/camping-parque... (http://www.campings.com/camping-parque-de-campismo-orbitur-sagres-vila-de-sagres/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112778)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -8.946283,37.024655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Porto Covo</name>
+        <description><![CDATA[Porto Covo<br>Estrada Municipal<br>Portugal<br>+351 269 905 136<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112813)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -8.787019,37.852183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tavira Aires</name>
+        <description><![CDATA[RV friendly............ actually quite nice and walkable into town...but it was so busy when we went, we couldn't find a place close enough to an available hook-up for our 31ft van...so we only stayed 2-3 days and then had to move on...shame, because Tavira is quite a nice place (imo). We did see several other RVs there as well as some unusual monster  conversions, so access not a problem...It's on EM508 road, just outside Tavira...maybe 10 mins walk into town...just off the N125 that runs along the Algarve...only a couple of hundred yards up the EM508 road. We got our 31ft C-class Trail-Lite through easily without any hissy fitting...and there were a few coaches there too, as well as a monster army truck conversion...so I'm guessing it's a few inches wider than 8ft 4"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -7.640315,37.13644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
