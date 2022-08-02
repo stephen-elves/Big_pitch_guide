@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Copy of Monster Moovers - RV friendly sites in Italy</name>
+    <description><![CDATA[www.monstermoovers.com<br>American RV and 5th wheel friendly sites in Italy.<br>Please let us know any incorrect information or new sites, so we can add them to this guide.<br><br>A copy in case the original goes.]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Use the map or search box to find RV friendly sites in Italy</name>
+      <Placemark>
+        <name>Campeggio Flaminio</name>
+        <description><![CDATA[Campeggio Flaminio<br>Via Flaminia Nuova, 821<br>00189 Rome, Italy<br>+39 06 333 2604<br>villageflaminio.com (http://villageflaminio.com/ENG/default.asp)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E!12574&authkey=!ADOo227-ogC5m9I&ithint=file%2c.pdf)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.482389,41.956219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Amici Di Lazise</name>
+        <description><![CDATA[Camping Amici Di Lazise<br>Strada del Roccolo, 8<br>37017 Localita' Fossalta Lazise sul Garda, Verona, Italy<br>+39 045 649 0146<br>campingamicidilazise.it (http://www.campingamicidilazise.it/eng/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112628)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.726261,45.479317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Chiocciola</name>
+        <description><![CDATA[La Chiocciola<br>Via Giulio Cesare, 14<br>52020 Bucine, Arezzo, Italy<br>+39 055 995776<br>campinglachiocciola.com (http://campinglachiocciola.com/nieuwconceptuk/start.htm)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112634)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.619072,43.446252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Marina di Venezia</name>
+        <description><![CDATA[Camping Marina di Venezia<br>Via Montello, 6<br>30013 Cavallino-Treporti, Venice, Italy<br>+39 041 530 2511<br>marinadivenezia.it (http://www.marinadivenezia.it/eng/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112647)<br><br>Rv friendly ...would recomend that to anyone . it is fantastic]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.440515,45.439176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Francesco</name>
+        <description><![CDATA[San Francesco<br>Strada Vicinale San Francesco<br>25015 Desenzano, Brescia, Italy<br>+39 030 911 0245<br>campingsanfrancesco.com/it (http://www.campingsanfrancesco.com/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112653)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.594425,45.465654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Campeggio Paradiso</name>
+        <description><![CDATA[Campeggio Paradiso<br>Viale dei Tigli, 34<br>55049 Viareggio Lucca, Italia<br>+39 0584 392005<br>campingparadisoviareggio.com (http://www.campingparadisoviareggio.com/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112700)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.252714,43.862536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Village Roma</name>
+        <description><![CDATA[Village Roma<br>Via Aurelia, 831<br>00163 Rome, Italy<br>+39 06 662 3018<br>ecvacanze.it (http://ecvacanze.it/it/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112758)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.405142,41.8868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Internazionale Spa</name>
+        <description><![CDATA[Camping Internazionale Spa<br>Via Litoranea, 7<br>56122 Marina di Pisa, Pisa, Italy<br>+39 050 35211<br>campeggiointernazionale.com... (http://campeggiointernazionale.com/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112769)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.285821,43.649942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Village Cavallino</name>
+        <description><![CDATA[Camping Village Cavallino<br>Via delle Batterie, 164<br>30013 Cavallino-Treporti, Venice, Italy<br>+39 041 966133<br>campingcavallino.com (http://campingcavallino.com/en-venice/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112780)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.500757,45.456767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Campeggio Trevisago</name>
+        <description><![CDATA[Campeggio Trevisago<br>Via Prato Negro, 7<br>25080 Moniga del Garda, Brescia, Italy<br>+39 0365 502252<br>trevisago.com (http://www.trevisago.com/)<br><br>link (https://skydrive.live.com/redir?resid=A4F0D5DC01E9EB6E%2112815)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.527778,45.53092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Village Torre Pendente</name>
+        <description>RV friendly            Just thought I would share with anyone who may go to Pisa to see the leaning tower, that the site we stayed at would take an RV of any size. You would have to call well in advance to book.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.383047,43.724387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Sirmione di Soardi Riccardo C. Sas</name>
+        <description>RV friendly</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.610638,45.468485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toscana Village Srl</name>
+        <description>RV friendly....Toscana is a great little site, just up from the rail station and 30 mins to Florence, less to Pisa. Great little site restaurant too! Ask for the back entrance, you wont get in the main one!!</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.753327,43.677586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Scarabeo</name>
+        <description>Rv friendly... It is in Santa Croce Camerina, Punta Braccetto, Ragusa. The campsite is split into two sections with private gardens and house in between. The owner, Angela di Modica, is very friendly and helpful and speaks very good English. She even rang the vet to arrange an appointment for our dog. Both sections of the campsite have paths that lead directly onto the long beach. There are free water taps on the site and free cold showers. Out of season, the private toilets and warm showers are free too. There are ample wash basins and washing-up sinks that are cleaned every day. Wi-fi can be purchased and is then available all over the campsite. I think we paid 8€ for 20 hours. There is a bar and restaurant at the very end of the beach (a lovely stroll along by the sea) and a a mini-mart a few hundred metres away.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.466467,36.81736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Il Cicero</name>
+        <description><![CDATA[Rv friendly..... This is in northern Sicily and if you cross from the toe of Italy on the short ferry crossing (no booking necessary as it runs about every hour) from there to Messina in Sicily, it is about an hour's drive along that northern Sicilian coast road. The camp is directly over the road from the very, very wide beach that never got packed even in july when we stayed there. There is a lovely pool near the bar area and it has a shallow area for children and a deeper one for adults. There is NO entertainment organised at the camp (thank goodness!) and if you want entertainment, there is a Lido a 100m down the road and children's clubs organised by the nearby town. The town is San Giorgio and reached by an enjoyable stroll along the sea front. It is a pretty town with ample restaurants and shops. Wifi is free but can only be accessed when sitting around the bar area. There is a large and attractive pizza and pasta restaurant that offers other dishes too, right next door and clients of the campsite have a discount on their bills! Lovely owners of the campsite Mèlanie and Andrea Ruffo, are very helpful and they speak relatively good English (speak slowly!) The beach has those palm tree leaf parasols permanently in the ground in a section directly opposite the camp and are free to use and if you are a client of this campsite you have use of deckchairs under the parasols for free.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.94867,38.169356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Costa Ponente</name>
+        <description><![CDATA[RV friendly.... near Cefalù. Cefalù town italef is very interesting. It is a Medieval town and is very quaint with loads of restaurants. It gets very packed but is worth a long exploration as lots of myths and history there.<br>This campsite is about a two hours' drive west along the toll road (stick to the toll road as much as you can as the sea road is VERY winding and narrow in parts) from the Il-Cicero campsite and it is called Costa Ponente and it is immediately next door to another campsite (called Sanfillip, which advertised kiddies' entertainment so we avoided that one!). (Having come off the toll road for Cefalù, you head towards that town but then turn left off the main road at an angle, down a short road to a railway track then head straight over into the entrance of Costa Potente.) It doesn't seem to be well advertised but it is very large and is terraced and you can wander in and select your own pitch - of which there are many and of various sizes. The pitches are all surrounded by trees so there is a good bit of shade no matter what time of day.<br>There is a huge swimming pool though it does close between 12.30 and 4pm which we found strange as everyone is queueing at the gate by 4pm. The pool is surrounded by grass so one can sunbathe on loungers or the grass. There is access to the beach but it is down lots and lots of crumbling concrete steps and the beach and the sea is full of huge stones which are slippery and hurt the feet, making walking into the sea near impossible so people were sitting on their behinds and shuffling into the sea backwards. We gave up after the first time and stuck to the pool!<br>There was a bar and small shop and access to wifi in that area and also a washing machine at 5€ per load (includes their liquids). Plenty of loo. Nd wash blocks though i would mention that out of each block of about 8 loos, only tow of each lot were proper sit-down toilets. The others were "holes in the floor" type.<br>All in all, a good stay except we wished that the pool was open all day. I think the life-guard had his siesta break during closure time. There is a restaurant a short walk up the road on the other side.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.983622,38.029012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>I Pini Family Park</name>
+        <description><![CDATA[RV friendly......https://onedrive.live.com/redir?resid=A4F0D5DC01E9EB6E!15499&authkey=!ADc9A4sEnBz1x1E&ithint=file%2cpdf]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.572724,42.155867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Campeggio Jonio</name>
+        <description><![CDATA[RV friendly.....https://onedrive.live.com/redir?resid=A4F0D5DC01E9EB6E!15502&authkey=!AKAPiGLVAWFwNOI&ithint=file%2cpdf]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.120121,37.532815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Porto Turistico Residence Marina 3b S.I.T.I. Srl</name>
+        <description><![CDATA[RV friendly.....Our RV is 8.2 mtrs long and we had no problem finding a pitch (you pick your own).<br><br>Shop /swimming pool /food/ dog friendly/ water and electric. http://www.campingcard.co.uk/italy/liguria/la-spezia/sarzana/campsite-iron-gate-marina-3b-115123/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            9.981165,44.076105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camping Orta</name>
+        <description>RV friendly......... highly recommend the area if you like to relax and not do much; you should be able to get lakeside with a 5th wheel. I took a boat down a couple of times and find it is almost perfection for watersports</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            8.420749,45.801933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sosta in Belluno</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4Ep6_PZ5TFFtHwayBs5XwukiK9CisJzLqWkov6Ig4LA6qmUej4k8hn9MmHAe7kMQ4Y6nXBeQ_uQWiEufkDpVDXD9TKOLJ49UQlqs2EOY8zFPELxerC2vxaaO3Pv9Wvf2yUjZJzHEcR60ykt4F6zdFJWKzu37ZAwqrCyV0cy6tZlnZiksh0r-JUGqxi" height="200" width="auto" /><br><br>Huge.....free from 18:00 to 08:00 and €0.80 per hour at all other times.  Being canny we pulled up at the ticket barrier just on the stroke of 18:00…….we even sat for a moment as the town bells rang on the hour……the ticket machine ticked over to 18:00……….Bingo!  We we’re in for a free night stop (we like these).<br><br>However we discovered the above does not apply on a Public Holiday when the rate is €1 all day! (and the free night stop does not start until 19:00 on a Public Holiday)<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW5rZH1DOuFup2WWOZmKEGblnq7o2-fQkmqC83_xLwGU81pOq2opG0fpSLJtJ2nQoYRDyGMrPmBXFQWfblvNR2qPfYjTlFsgrjqhPhfHqACs2JFHR_7hfzbn1OQ5G0FMZX6XQcpvjMWgpRASkPcMkbgDWwu4obaNTMfKsVtz4DxXnjagEXHLTMAiGWVJyJXChYRR5NBLNpZTQMkxQrKs7PAk6JS62QWfnIhWBUXHKAjx55BO2FHn-AIaPxUQ787Tj69_pRxW8LdLDqcpOldKKfv44cUPKXM0tfzDVG2FA1k1yKi-i-gX21OWQQatzDf6uuh-r84" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4Ep6_PZ5TFFtHwayBs5XwukiK9CisJzLqWkov6Ig4LA6qmUej4k8hn9MmHAe7kMQ4Y6nXBeQ_uQWiEufkDpVDXD9TKOLJ49UQlqs2EOY8zFPELxerC2vxaaO3Pv9Wvf2yUjZJzHEcR60ykt4F6zdFJWKzu37ZAwqrCyV0cy6tZlnZiksh0r-JUGqxi https://lh3.googleusercontent.com/umsh/AK26PW5rZH1DOuFup2WWOZmKEGblnq7o2-fQkmqC83_xLwGU81pOq2opG0fpSLJtJ2nQoYRDyGMrPmBXFQWfblvNR2qPfYjTlFsgrjqhPhfHqACs2JFHR_7hfzbn1OQ5G0FMZX6XQcpvjMWgpRASkPcMkbgDWwu4obaNTMfKsVtz4DxXnjagEXHLTMAiGWVJyJXChYRR5NBLNpZTQMkxQrKs7PAk6JS62QWfnIhWBUXHKAjx55BO2FHn-AIaPxUQ787Tj69_pRxW8LdLDqcpOldKKfv44cUPKXM0tfzDVG2FA1k1yKi-i-gX21OWQQatzDf6uuh-r84</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.215343,46.136865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
